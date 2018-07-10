@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Field.img">
+	<imgdir name="Party1">
+		<sound name="Clear"/>
+		<sound name="Failed"/>
+	</imgdir>
+	<imgdir name="Coconut">
+		<sound name="Broken"/>
+		<sound name="Hit"/>
+		<sound name="Fall"/>
+		<sound name="Failed"/>
+		<sound name="Victory"/>
+	</imgdir>
+	<imgdir name="Cokeplay">
+		<sound name="Broken"/>
+		<sound name="Hit"/>
+		<sound name="Fall"/>
+		<sound name="Failed"/>
+		<sound name="Victory"/>
+	</imgdir>
+	<imgdir name="Party3">
+		<sound name="Eat"/>
+	</imgdir>
+	<imgdir name="MobCarnival">
+		<sound name="Lose"/>
+		<sound name="Win"/>
+	</imgdir>
+	<imgdir name="Romio">
+		<sound name="discovery"/>
+	</imgdir>
+	<imgdir name="Magatia">
+		<sound name="alceCircle"/>
+	</imgdir>
+	<imgdir name="orbis">
+		<sound name="do"/>
+		<sound name="re"/>
+		<sound name="mi"/>
+		<sound name="pa"/>
+		<sound name="sol"/>
+		<sound name="la"/>
+		<sound name="si"/>
+	</imgdir>
+</imgdir>

@@ -1,0 +1,1 @@
+﻿ALTER TABLE `characters` ADD COLUMN `karma` int(11) NOT NULL DEFAULT '0'

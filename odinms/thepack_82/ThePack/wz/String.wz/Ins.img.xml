@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Ins.img">
+	<imgdir name="3010000">
+		<string name="name" value="The Relaxer"/>
+		<string name="desc" value="Catch your breath and relax by sitting on this chair to recover 50 HP every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+	<imgdir name="3010001">
+		<string name="name" value="Sky-blue Wooden Chair"/>
+		<string name="desc" value="A specially-made sky-blue wooden chair that&apos;s only available in Lith Harbor. Recover 35 HP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010002">
+		<string name="name" value="Green Chair"/>
+		<string name="desc" value="A comfortable, plush green chair, complete with arm-rests. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010003">
+		<string name="name" value="Red Chair"/>
+		<string name="desc" value="A comfortable, plush red chair, complete with arm-rests.. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010004">
+		<string name="name" value="The Yellow Relaxer"/>
+		<string name="desc" value="Catch your breath and relax by sitting on this chair to recover 50 HP every 10 seconds.  Perfect for a quick break from training."/>
+	</imgdir>
+	<imgdir name="3010005">
+		<string name="name" value="The Red Relaxer"/>
+		<string name="desc" value="Catch your breath and relax by sitting on this chair to recover 50 HP every 10 seconds.  Perfect for a quick break from training."/>
+	</imgdir>
+	<imgdir name="3010006">
+		<string name="name" value="Yellow Chair"/>
+		<string name="desc" value="A comfortable, plush yellow chair, complete with arm-rests.. Recovers 50 HP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010007">
+		<string name="name" value="Pink Seal Cushion"/>
+		<string name="desc" value="An adorable pink cushion that resembles a seal.  Recovers HP 60 every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010008">
+		<string name="name" value="Blue Seal Cushion"/>
+		<string name="desc" value="An adorable blue cushion that resembles a seal.  Recovers HP 60 every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010009">
+		<string name="name" value="Red Round Chair"/>
+		<string name="desc" value="Rumored to be crafted in Amoria, this special chair is also known as the Love Seat. Recover 20 HP and 20 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010010">
+		<string name="name" value="White Seal Cushion"/>
+		<string name="desc" value="An adorable white cushion that resembles a seal.  Recovers HP 50 every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010011">
+		<string name="name" value="Amorian Relaxer"/>
+		<string name="desc" value="A chair crafted by Jacob. Recovers 75 HP every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+	<imgdir name="3010012">
+		<string name="name" value="Warrior Throne"/>
+		<string name="desc" value="A powerful chair used often on the battlefield. Recovers 60 HP every 10 seconds.\n#cCannot be traded or dropped.#"/>
+	</imgdir>
+	<imgdir name="3010013">
+		<string name="name" value="Beach Chair"/>
+		<string name="desc" value="A chair straight from the relaxation experts in Florina Beach. Recover 20 HP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010014">
+		<string name="name" value="Moon Star Chair"/>
+		<string name="desc" value="A light, stylish chair that seems to be sent from the heavens. Recover 30 HP and 30 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010015">
+		<string name="name" value="The Red Relaxer"/>
+		<string name="desc" value="A chair with magical properties crafted in Ellinia. Restores 35 MP per 10 Seconds while sitting."/>
+	</imgdir>
+	<imgdir name="3010016">
+		<string name="name" value="Grey Seal Cushion"/>
+		<string name="desc" value="An adorable grey cushion that resembles a seal.  Recovers HP 60 every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010017">
+		<string name="name" value="Gold Seal Cushion"/>
+		<string name="desc" value="An adorable gold cushion that resembles a seal.  Recovers MP 60 every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010018">
+		<string name="name" value="Palm Tree Beach Chair"/>
+		<string name="desc" value="A beach chair placed in the shades under the palm tree at Ariant. Sit on it to recover HP 40 and MP 20 every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010019">
+		<string name="name" value="Kadomatsu"/>
+		<string name="desc" value="A specially-made chair that&apos;s only available in Mushroom Shrine. Recover 60 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010025">
+		<string name="name" value="Under the Maple Tree..."/>
+		<string name="desc" value="A white chair commemorating the 5th anniversary of MapleStory. Sit on it to recover HP 35 and MP 10 every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3011000">
+		<string name="name" value="Fishing Chair"/>
+		<string name="desc" value="The perfect chair for fishing."/>
+	</imgdir>
+	<imgdir name="3990000">
+		<string name="name" value="Red No. 1"/>
+		<string name="desc" value="A red #1 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990001">
+		<string name="name" value="Red No. 2"/>
+		<string name="desc" value="A red #2 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990002">
+		<string name="name" value="Red No. 3"/>
+		<string name="desc" value="A red #3 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990003">
+		<string name="name" value="Red No. 4"/>
+		<string name="desc" value="A red #4 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990004">
+		<string name="name" value="Red No. 5"/>
+		<string name="desc" value="A red #5 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990005">
+		<string name="name" value="Red No. 6"/>
+		<string name="desc" value="A red #6 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990006">
+		<string name="name" value="Red No. 7"/>
+		<string name="desc" value="A red #7 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990007">
+		<string name="name" value="Red No. 8"/>
+		<string name="desc" value="A red #8 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990008">
+		<string name="name" value="Red No. 9"/>
+		<string name="desc" value="A red #9 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990009">
+		<string name="name" value="Red No. 0"/>
+		<string name="desc" value="A red #0 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990010">
+		<string name="name" value="Green No. 1"/>
+		<string name="desc" value="A green #1 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990011">
+		<string name="name" value="Green No. 2"/>
+		<string name="desc" value="A green #2 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990012">
+		<string name="name" value="Green No. 3"/>
+		<string name="desc" value="A green #3 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990013">
+		<string name="name" value="Green No. 4"/>
+		<string name="desc" value="A green #4 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990014">
+		<string name="name" value="Green No. 5"/>
+		<string name="desc" value="A green #5 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990015">
+		<string name="name" value="Green No. 6"/>
+		<string name="desc" value="A green #6 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990016">
+		<string name="name" value="Green No. 7"/>
+		<string name="desc" value="A green #7 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990017">
+		<string name="name" value="Green No. 8"/>
+		<string name="desc" value="A green #8 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990018">
+		<string name="name" value="Green No. 9"/>
+		<string name="desc" value="A green #9 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990019">
+		<string name="name" value="Green No. 0"/>
+		<string name="desc" value="A green #0 to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990020">
+		<string name="name" value="Red &quot; + &quot;"/>
+		<string name="desc" value="A red &quot; + &quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990021">
+		<string name="name" value="Red &quot; - &quot;"/>
+		<string name="desc" value="A red &quot; - &quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990022">
+		<string name="name" value="Green &quot; + &quot;"/>
+		<string name="desc" value="A green &quot; + &quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3990023">
+		<string name="name" value="Green &quot; - &quot;"/>
+		<string name="desc" value="A green &quot; - &quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991000">
+		<string name="name" value="Red &quot;A&quot;"/>
+		<string name="desc" value="A red &quot;A&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991001">
+		<string name="name" value="Red &quot;B&quot;"/>
+		<string name="desc" value="A red &quot;B&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991002">
+		<string name="name" value="Red &quot;C&quot;"/>
+		<string name="desc" value="A red &quot;C&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991003">
+		<string name="name" value="Red &quot;D&quot;"/>
+		<string name="desc" value="A red &quot;D&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991004">
+		<string name="name" value="Red &quot;E&quot;"/>
+		<string name="desc" value="A red &quot;E&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991005">
+		<string name="name" value="Red &quot;F&quot;"/>
+		<string name="desc" value="A red &quot;F&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991006">
+		<string name="name" value="Red &quot;G&quot;"/>
+		<string name="desc" value="A red &quot;G&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991007">
+		<string name="name" value="Red &quot;H&quot;"/>
+		<string name="desc" value="A red &quot;H&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991008">
+		<string name="name" value="Red &quot;I&quot;"/>
+		<string name="desc" value="A red &quot;I&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991009">
+		<string name="name" value="Red &quot;J&quot;"/>
+		<string name="desc" value="A red &quot;J&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991010">
+		<string name="name" value="Red &quot;K&quot;"/>
+		<string name="desc" value="A red &quot;K&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991011">
+		<string name="name" value="Red &quot;L&quot;"/>
+		<string name="desc" value="A red &quot;L&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991012">
+		<string name="name" value="Red &quot;M&quot;"/>
+		<string name="desc" value="A red &quot;M&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991013">
+		<string name="name" value="Red &quot;N&quot;"/>
+		<string name="desc" value="A red &quot;N&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991014">
+		<string name="name" value="Red &quot;O&quot;"/>
+		<string name="desc" value="A red &quot;O&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991015">
+		<string name="name" value="Red &quot;P&quot;"/>
+		<string name="desc" value="A red &quot;P&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991016">
+		<string name="name" value="Red &quot;Q&quot;"/>
+		<string name="desc" value="A red &quot;Q&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991017">
+		<string name="name" value="Red &quot;R&quot;"/>
+		<string name="desc" value="A red &quot;R&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991018">
+		<string name="name" value="Red &quot;S&quot;"/>
+		<string name="desc" value="A red &quot;S&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991019">
+		<string name="name" value="Red &quot;T&quot;"/>
+		<string name="desc" value="A red &quot;T&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991020">
+		<string name="name" value="Red &quot;U&quot;"/>
+		<string name="desc" value="A red &quot;U&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991021">
+		<string name="name" value="Red &quot;V&quot;"/>
+		<string name="desc" value="A red &quot;V&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991022">
+		<string name="name" value="Red &quot;W&quot;"/>
+		<string name="desc" value="A red &quot;W&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991023">
+		<string name="name" value="Red &quot;X&quot;"/>
+		<string name="desc" value="A red &quot;X&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991024">
+		<string name="name" value="Red &quot;Y&quot;"/>
+		<string name="desc" value="A red &quot;Y&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991025">
+		<string name="name" value="Red &quot;Z&quot;"/>
+		<string name="desc" value="A red &quot;Z&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991026">
+		<string name="name" value="Green &quot;A&quot;"/>
+		<string name="desc" value="A green &quot;A&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991027">
+		<string name="name" value="Green &quot;B&quot;"/>
+		<string name="desc" value="A green &quot;B&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991028">
+		<string name="name" value="Green &quot;C&quot;"/>
+		<string name="desc" value="A green &quot;C&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991029">
+		<string name="name" value="Green &quot;D&quot;"/>
+		<string name="desc" value="A green &quot;D&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991030">
+		<string name="name" value="Green &quot;E&quot;"/>
+		<string name="desc" value="A green &quot;E&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991031">
+		<string name="name" value="Green &quot;F&quot;"/>
+		<string name="desc" value="A green &quot;F&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991032">
+		<string name="name" value="Green &quot;G&quot;"/>
+		<string name="desc" value="A green &quot;G&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991033">
+		<string name="name" value="Green &quot;H&quot;"/>
+		<string name="desc" value="A green &quot;H&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991034">
+		<string name="name" value="Green &quot;I&quot;"/>
+		<string name="desc" value="A green &quot;I&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991035">
+		<string name="name" value="Green &quot;J&quot;"/>
+		<string name="desc" value="A green &quot;J&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991036">
+		<string name="name" value="Green &quot;K&quot;"/>
+		<string name="desc" value="A green &quot;K&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991037">
+		<string name="name" value="Green &quot;L&quot;"/>
+		<string name="desc" value="A green &quot;L&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991038">
+		<string name="name" value="Green &quot;M&quot;"/>
+		<string name="desc" value="A green &quot;M&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991039">
+		<string name="name" value="Green &quot;N&quot;"/>
+		<string name="desc" value="A green &quot;N&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991040">
+		<string name="name" value="Green &quot;O&quot;"/>
+		<string name="desc" value="A green &quot;O&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991041">
+		<string name="name" value="Green &quot;P&quot;"/>
+		<string name="desc" value="A green &quot;P&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991042">
+		<string name="name" value="Green &quot;Q&quot;"/>
+		<string name="desc" value="A green &quot;Q&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991043">
+		<string name="name" value="Green &quot;R&quot;"/>
+		<string name="desc" value="A green &quot;R&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991044">
+		<string name="name" value="Green &quot;S&quot;"/>
+		<string name="desc" value="A green &quot;S&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991045">
+		<string name="name" value="Green &quot;T&quot;"/>
+		<string name="desc" value="A green &quot;T&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991046">
+		<string name="name" value="Green &quot;U&quot;"/>
+		<string name="desc" value="A green &quot;U&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991047">
+		<string name="name" value="Green &quot;V&quot;"/>
+		<string name="desc" value="A green &quot;V&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991048">
+		<string name="name" value="Green &quot;W&quot;"/>
+		<string name="desc" value="A green &quot;W&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991049">
+		<string name="name" value="Green &quot;X&quot;"/>
+		<string name="desc" value="A green &quot;X&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991050">
+		<string name="name" value="Green &quot;Y&quot;"/>
+		<string name="desc" value="A green &quot;Y&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3991051">
+		<string name="name" value="Green &quot;Z&quot;"/>
+		<string name="desc" value="A green &quot;Z&quot; to decorate the tree."/>
+	</imgdir>
+	<imgdir name="3992000">
+		<string name="name" value="Santa Ornament"/>
+		<string name="desc" value="A santa ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992001">
+		<string name="name" value="Rudolph Ornament"/>
+		<string name="desc" value="A Rudolph ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992002">
+		<string name="name" value="Mushroom Ornament"/>
+		<string name="desc" value="A mushroom ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992003">
+		<string name="name" value="Pig Ornament"/>
+		<string name="desc" value="A pig ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992004">
+		<string name="name" value="Slime Ornament"/>
+		<string name="desc" value="A slime ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992005">
+		<string name="name" value="Red Gift-Box Ornament"/>
+		<string name="desc" value="A red gift-box ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992006">
+		<string name="name" value="Blue Gift-Box Ornament"/>
+		<string name="desc" value="A blue gift-box ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992007">
+		<string name="name" value="Yellow Gift-Box Ornament"/>
+		<string name="desc" value="A yellow gift-box ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992008">
+		<string name="name" value="Red Star Miniature Bulb"/>
+		<string name="desc" value="A red star miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992009">
+		<string name="name" value="Blue Star Miniature Bulb"/>
+		<string name="desc" value="A blue star miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992010">
+		<string name="name" value="Green Star Miniature Bulb"/>
+		<string name="desc" value="A green star miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992011">
+		<string name="name" value="Pink Star Miniature Bulb"/>
+		<string name="desc" value="A pink star miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992012">
+		<string name="name" value="Orange Star Miniature Bulb"/>
+		<string name="desc" value="An orange star miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992013">
+		<string name="name" value="Red Miniature Bulb"/>
+		<string name="desc" value="A red miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992014">
+		<string name="name" value="Blue Miniature Bulb"/>
+		<string name="desc" value="A blue miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992015">
+		<string name="name" value="Yellow Miniature Bulb"/>
+		<string name="desc" value="A yellow miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992016">
+		<string name="name" value="Green Miniature Bulb"/>
+		<string name="desc" value="A green miniature bulb for the tree."/>
+	</imgdir>
+	<imgdir name="3992017">
+		<string name="name" value="Red Ball Ornament"/>
+		<string name="desc" value="A red ball ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992018">
+		<string name="name" value="Blue Ball Ornament"/>
+		<string name="desc" value="A blue ball ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992019">
+		<string name="name" value="Yellow Ball Ornament"/>
+		<string name="desc" value="A yellow ball ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992020">
+		<string name="name" value="Red Sock"/>
+		<string name="desc" value="A red sock for the tree."/>
+	</imgdir>
+	<imgdir name="3992021">
+		<string name="name" value="The gingerbread man"/>
+		<string name="desc" value="The gingerbread man for the tree."/>
+	</imgdir>
+	<imgdir name="3992022">
+		<string name="name" value="The gingerbread woman"/>
+		<string name="desc" value="The gingerbread lady for the tree."/>
+	</imgdir>
+	<imgdir name="3992023">
+		<string name="name" value="Candy Cane"/>
+		<string name="desc" value="A candy cane for the tree."/>
+	</imgdir>
+	<imgdir name="3992024">
+		<string name="name" value="Circular Tree Ornament"/>
+		<string name="desc" value="A circular ornament for the tree."/>
+	</imgdir>
+	<imgdir name="3992025">
+		<string name="name" value="King-sized Star"/>
+		<string name="desc" value="A king-sized star for the tree."/>
+	</imgdir>
+	<imgdir name="3992026">
+		<string name="name" value="Christmas wreath"/>
+		<string name="desc" value="A christmas wreath for the tree."/>
+	</imgdir>
+	<imgdir name="3992027">
+		<string name="name" value="Red Candle"/>
+		<string name="desc" value="A red candle for the tree."/>
+	</imgdir>
+	<imgdir name="3992028">
+		<string name="name" value="Blue Candle"/>
+		<string name="desc" value="A blue candle for the tree."/>
+	</imgdir>
+	<imgdir name="3992029">
+		<string name="name" value="Yellow Candle"/>
+		<string name="desc" value="A yellow candle for the tree."/>
+	</imgdir>
+	<imgdir name="3992030">
+		<string name="name" value="Red Candy Canes"/>
+		<string name="desc" value="Red candy canes for the tree."/>
+	</imgdir>
+	<imgdir name="3992031">
+		<string name="name" value="Blue Candy Canes"/>
+		<string name="desc" value="Blue candy canes for the tree."/>
+	</imgdir>
+	<imgdir name="3992032">
+		<string name="name" value="Yellow Candy Canes"/>
+		<string name="desc" value="Yellow candy canes for the tree."/>
+	</imgdir>
+	<imgdir name="3992033">
+		<string name="name" value="Red Fruit Leaves"/>
+		<string name="desc" value="Red fruit leaves for the tree."/>
+	</imgdir>
+	<imgdir name="3992034">
+		<string name="name" value="Yellow Fruit Leaves"/>
+		<string name="desc" value="Yellow fruit leaves for the tree."/>
+	</imgdir>
+	<imgdir name="3992035">
+		<string name="name" value="Red-Ribboned Giftbox"/>
+		<string name="desc" value="A red-ribboned giftbox for the tree."/>
+	</imgdir>
+	<imgdir name="3992036">
+		<string name="name" value="Blue-Ribboned Giftbox"/>
+		<string name="desc" value="A blue-ribboned giftbox for the tree."/>
+	</imgdir>
+	<imgdir name="3992037">
+		<string name="name" value="Yellow-Ribboned Giftbox"/>
+		<string name="desc" value="A yellow-ribboned giftbox for the tree."/>
+	</imgdir>
+	<imgdir name="3992038">
+		<string name="name" value="Ruldolph Santa Boots"/>
+		<string name="desc" value="A Rudolph Santa Boots for the tree."/>
+	</imgdir>
+	<imgdir name="3992039">
+		<string name="name" value="Marker of Heroism"/>
+		<string name="desc" value="A small figurine embedded with a gem that emanates heroism.  This item allows you to activate and use the Heroic Statues in the Valley of Heroes."/>
+	</imgdir>
+	<imgdir name="3992040">
+		<string name="name" value="Map of Phantom Forest"/>
+		<string name="desc" value="This map marks the hidden paths of Phantom Forest, which  are now open to you."/>
+	</imgdir>
+	<imgdir name="3992041">
+		<string name="name" value="Crimsonwood Keystone"/>
+		<string name="desc" value="A magical stone that unlocks the gates to the Inner Sanctum of Crimsonwood Keep. "/>
+	</imgdir>
+	<imgdir name="3993000">
+		<string name="name" value="Lucky Dish"/>
+		<string name="desc" value="A pair of luck dish out of bamboos. Common in Korean culture"/>
+	</imgdir>
+	<imgdir name="3993001">
+		<string name="name" value="Luck Sack"/>
+		<string name="desc" value="A red luck sack common in Korean culture."/>
+	</imgdir>
+	<imgdir name="3993002">
+		<string name="name" value="Bamboo Luck Sack"/>
+		<string name="desc" value="A pair of luck sack made of bamboo."/>
+	</imgdir>
+	<imgdir name="3993003">
+		<string name="name" value="Red Luck Sack"/>
+		<string name="desc" value="A red luck sack with &apos;luck&apos; written on it."/>
+	</imgdir>
+	<imgdir name="3994000">
+		<string name="name" value="Wooden Alphabet &quot;A&quot;"/>
+		<string name="desc" value="An alphabet &quot;A&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994001">
+		<string name="name" value="Wooden Alphabet &quot;E&quot;"/>
+		<string name="desc" value="An alphabet &quot;E&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994002">
+		<string name="name" value="Wooden Alphabet &quot;I&quot;"/>
+		<string name="desc" value="An alphabet &quot;I&quot; made out of a tree. Gather up other alphabets, and bring them all to the GM to..."/>
+	</imgdir>
+	<imgdir name="3994003">
+		<string name="name" value="Wooden Alphabet &quot;L&quot;"/>
+		<string name="desc" value="An alphabet &quot;L&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994004">
+		<string name="name" value="Wooden Alphabet &quot;N&quot;"/>
+		<string name="desc" value="An alphabet &quot;N&quot; made out of a tree. Gather up other alphabets, and bring them all to the GM to..."/>
+	</imgdir>
+	<imgdir name="3994005">
+		<string name="name" value="Wooden Alphabet &quot;O&quot;"/>
+		<string name="desc" value="An alphabet &quot;O&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994006">
+		<string name="name" value="Wooden Alphabet &quot;P&quot;"/>
+		<string name="desc" value="An alphabet &quot;P&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994007">
+		<string name="name" value="Wooden Alphabet &quot;R&quot;"/>
+		<string name="desc" value="An alphabet &quot;R&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994008">
+		<string name="name" value="Wooden Alphabet &quot;T&quot;"/>
+		<string name="desc" value="An alphabet &quot;T&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994009">
+		<string name="name" value="Wooden Alphabet &quot;X&quot;"/>
+		<string name="desc" value="An alphabet &quot;X&quot; made out of a tree. Gather up other alphabets, and bring them all to the GM to..."/>
+	</imgdir>
+	<imgdir name="3994010">
+		<string name="name" value="Wooden Alphabet &quot;Y&quot;"/>
+		<string name="desc" value="An alphabet &quot;Y&quot; made out of a tree. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994011">
+		<string name="name" value="Wooden Alphabet &quot;Z&quot;"/>
+		<string name="desc" value="An alphabet &quot;Z&quot; made out of a tree. Gather up other alphabets, and bring them all to the GM to..."/>
+	</imgdir>
+	<imgdir name="3994012">
+		<string name="name" value="Special &quot;M&quot;"/>
+		<string name="desc" value="A special alphabet &quot;M&quot;. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994013">
+		<string name="name" value="Special &quot;S&quot;"/>
+		<string name="desc" value="A special alphabet &quot;S&quot;. Gather up other alphabets, and bring them all to the Maple Administrator."/>
+	</imgdir>
+	<imgdir name="3994014">
+		<string name="name" value="Special &quot;W&quot;"/>
+		<string name="desc" value="A special alphabet &quot;W&quot;. Gather up other alphabets, and bring them all to the GM to..."/>
+	</imgdir>
+	<imgdir name="3994015">
+		<string name="name" value="Wooden Alphabet C"/>
+	</imgdir>
+	<imgdir name="3994016">
+		<string name="name" value="Wooden Alphabet H"/>
+	</imgdir>
+	<imgdir name="3994017">
+		<string name="name" value="Alphabet A"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994018">
+		<string name="name" value="Alphabet E"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994019">
+		<string name="name" value="Alphabet H"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994020">
+		<string name="name" value="Alphabet N"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994021">
+		<string name="name" value="Alphabet P"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994022">
+		<string name="name" value="Alphabet R"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994023">
+		<string name="name" value="Alphabet W"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994024">
+		<string name="name" value="Alphabet Y"/>
+		<string name="desc" value="&amp;#43690;&amp;#43691;&amp;#43692;&amp;#43693;&amp;#43694;&amp;#43695;&amp;#43696;&amp;#43697;&amp;#43698;&amp;#43699;&amp;#43700;&amp;#43701;&amp;#43702;&amp;#43703;&amp;#43704;&amp;#43705;&amp;#43706;&amp;#43707;&amp;#43708;&amp;#43709;&amp;#43710;&amp;#43711;&amp;#43712;&amp;#43713;&amp;#43714;&amp;#43715;&amp;#43716;&amp;#43717;&amp;#43718;&amp;#43719;&amp;#43720;&amp;#43721;&amp;#43722;&amp;#43723;&amp;#43724;&amp;#43725;&amp;#43726;&amp;#43727;&amp;#43728;&amp;#43729;&amp;#43730;&amp;#43731;&amp;#43732;&amp;#43733;&amp;#43734;&amp;#43735;&amp;#43736;&amp;#43737;&amp;#43738;&amp;#43739;&amp;#43740;&amp;#43741;&amp;#43742;&amp;#43743;&amp;#43744;&amp;#43745;&amp;#43746;&amp;#43747;&amp;#43748;&amp;#43749;&amp;#43750;&amp;#43751;&amp;#43752;&amp;#43753;&amp;#43754;&amp;#43755;&amp;#43756;&amp;#43757;&amp;#43758;&amp;#43759;&amp;#43760;&amp;#43761;&amp;#43762;&amp;#43763;&amp;#43764;&amp;#43765;&amp;#43766;&amp;#43767;&amp;#43768;"/>
+	</imgdir>
+	<imgdir name="3994085">
+		<string name="name" value="Admin&apos;s Candle"/>
+		<string name="desc" value="A small candle from the Admin. This candle will turn itself off when the game is ended."/>
+	</imgdir>
+	<imgdir name="3994086">
+		<string name="name" value="Birthday Cake Candle"/>
+		<string name="desc" value="A candle used on the birthday cake for the 5th anniversary of MapleStory. The fire will be blown out when the game is ended."/>
+	</imgdir>
+	<imgdir name="3995000">
+		<string name="name" value="."/>
+	</imgdir>
+	<imgdir name="3010040">
+		<string name="name" value="The Stirge Seat"/>
+		<string name="desc" value="A chair hand-crafted by Stirgeman for aspiring superheroes! Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+	<imgdir name="3010041">
+		<string name="name" value="Skull Throne"/>
+		<string name="desc" value="A chair crafted within the Phantom Forest, complete with...ornaments...from unlucky travelers. Recovers 50 HP and 50 MP every 10 seconds."/>
+	</imgdir>
+</imgdir>

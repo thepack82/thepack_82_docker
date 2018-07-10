@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9102005.img">
+	<imgdir name="info">
+		<string name="name" value="&amp;#7290;&amp;#7649;&amp;#15676;&amp;#16286;"/>
+		<string name="link" value="9102002"/>
+		<int name="removeInFieldSet" value="1"/>
+	</imgdir>
+	<string name="action" value="moonItem3"/>
+</imgdir>

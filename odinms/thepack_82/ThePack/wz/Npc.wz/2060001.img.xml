@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2060001.img">
+	<imgdir name="info">
+	</imgdir>
+	<imgdir name="stand">
+		<canvas name="0" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="delay" value="2000"/>
+		</canvas>
+		<canvas name="1" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="delay" value="80"/>
+		</canvas>
+		<canvas name="2" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="delay" value="80"/>
+		</canvas>
+	</imgdir>
+	<imgdir name="say">
+		<canvas name="?" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="dealy" value="1000"/>
+		</canvas>
+		<canvas name="?" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="dealy" value="150"/>
+		</canvas>
+		<uol name="2" value="&amp;#20870;"/>
+		<uol name="3" value="&amp;#20871;"/>
+		<uol name="4" value="&amp;#20870;"/>
+		<uol name="5" value="&amp;#20871;"/>
+		<uol name="6" value="&amp;#20870;"/>
+		<canvas name="7" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="dealy" value="200"/>
+		</canvas>
+		<canvas name="8" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="dealy" value="200"/>
+		</canvas>
+		<uol name="9" value="&amp;#20870;"/>
+		<uol name="10" value="&amp;#20871;"/>
+		<imgdir name="speak">
+			<string name="0" value="s0"/>
+			<string name="1" value="s1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="hand">
+		<canvas name="?" width="64" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="dealy" value="2000"/>
+		</canvas>
+		<canvas name="?" width="66" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="delat" value="100"/>
+		</canvas>
+		<canvas name="?" width="66" height="80">
+			<vector name="origin" x="31" y="71"/>
+			<int name="dealy" value="500"/>
+		</canvas>
+		<uol name="3" value="&amp;#20871;"/>
+	</imgdir>
+</imgdir>

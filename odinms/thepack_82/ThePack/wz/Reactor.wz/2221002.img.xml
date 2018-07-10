@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2221002.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#7694;&amp;#7947;&amp;#22308;&amp;#10896;&amp;#30332;&amp;#56145;&amp;#29335;&amp;#54093;&amp;#26479;&amp;#36708;&amp;#58217;&amp;#63434;&amp;#22228;&amp;#3025;&amp;#54536;&amp;#8933;&amp;#3837;&amp;#38453;&amp;#1480;&amp;#47246;&amp;#20626;&amp;#64300;&amp;#13103;&amp;#24027;&amp;#36485;&amp;#10753;&amp;#50357;&amp;#10742;&amp;#4087;"/>
+	</imgdir>
+	<imgdir name="0">
+		<canvas name="0" width="64" height="61">
+			<vector name="origin" x="46" y="54"/>
+			<int name="z" value="0"/>
+		</canvas>
+		<imgdir name="event">
+			<imgdir name="0">
+				<int name="type" value="100"/>
+				<int name="state" value="1"/>
+				<int name="0" value="2022051"/>
+				<int name="1" value="1"/>
+				<int name="2" value="1"/>
+				<vector name="lt" x="-18" y="-33"/>
+				<vector name="rb" x="16" y="6"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>
+	<imgdir name="1">
+		<canvas name="0" width="64" height="61">
+			<vector name="origin" x="46" y="54"/>
+			<int name="z" value="0"/>
+		</canvas>
+	</imgdir>
+	<string name="action" value="fvMob2"/>
+</imgdir>

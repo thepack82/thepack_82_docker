@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2221003.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#31219;&amp;#6591;&amp;#19308;&amp;#37117;&amp;#49030;&amp;#56464;&amp;#52909;&amp;#48925;&amp;#7595;&amp;#18460;&amp;#22241;&amp;#36459;&amp;#9428;&amp;#2697;&amp;#5172;&amp;#38765;&amp;#1601;&amp;#39232;&amp;#31673;&amp;#2922;&amp;#17135;&amp;#33324;&amp;#35443;&amp;#40055;&amp;#39249;&amp;#10501;&amp;#41741;&amp;#39740;"/>
+	</imgdir>
+	<imgdir name="0">
+		<canvas name="0" width="1" height="1">
+			<vector name="origin" x="0" y="0"/>
+		</canvas>
+		<imgdir name="event">
+			<imgdir name="0">
+				<int name="type" value="100"/>
+				<int name="state" value="1"/>
+				<int name="0" value="4031244"/>
+				<int name="1" value="1"/>
+				<int name="2" value="1"/>
+				<vector name="lt" x="-150" y="-48"/>
+				<vector name="rb" x="155" y="41"/>
+			</imgdir>
+		</imgdir>
+	</imgdir>
+	<imgdir name="1">
+		<canvas name="0" width="1" height="1">
+			<vector name="origin" x="0" y="0"/>
+		</canvas>
+	</imgdir>
+	<string name="action" value="fvquest0"/>
+</imgdir>

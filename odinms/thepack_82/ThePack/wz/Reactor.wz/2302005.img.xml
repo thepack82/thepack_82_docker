@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2302005.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#174;&amp;#4315;&amp;#15664;&amp;#10865;&amp;#46306;&amp;#45109;&amp;#52909;&amp;#44424;&amp;#3399;&amp;#13232;&amp;#64033;&amp;#62306;"/>
+		<string name="link" value="2302000"/>
+		<int name="removeInFieldSet" value="1"/>
+	</imgdir>
+	<string name="action" value="tameItem0"/>
+</imgdir>

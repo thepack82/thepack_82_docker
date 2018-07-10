@@ -1,0 +1,99 @@
+ThePack Features
+
+Events:
+Automsg (aka MoograTips)
+Henesys PQ, KerningPQ, LudiMaze PQ, LudiPQ, ZakumPQ, Guild PQ working
+Field of Judgement every 2 hours
+Odin Base PvP
+4th Job Skill Events working
+
+NPC:
+Meteorite trades 1 Gold Leaf for 1 billion mesos and vice versa
+Sera maxes skills, gives random job items
+Robin resets stats and adds in stats
+Spinel warps to towns and monster maps
+Cody changes jobs including pirate
+Mr Oh changes background music
+Spindle sells NX
+O-Pongo sells buffs
+Konpei warps to PvP map
+Nara is the Donator Point NPC
+Shanks is in the FM, does all of the above.
+Vicious warps to event map if !event is in use
+Gachapon Works
+Adobis manages Zakum squads
+Coco Sells Fame
+Boss Summoner is in FM22
+Meteorite 2 warps to FM22
+
+Reactors:
+Boss Reactors work
+PQ reactors work
+
+Autobans:
+NX hack autoban
+KIPE autoban
+Smega Spam autoban
+Monster summonbag autoban
+All of autoban disabled
+
+Other:
+Drop Cards/Exp Cards work
+Up to 15 worlds, you can pick through World.Properties
+Real Marriage with "SQL support"
+Pets work like they do in GMS, they walk toward items as well (including robos)
+Servermessage, Event Message, Server name in world.properties
+Working Cash Shop
+Skill Macros Work
+All non-pirate skills work, only 2-3 pirate skills are broken
+Arrows drop normally
+GMS Drops and GMS Shops
+Reborns work at 200+
+Multipets
+Player Shops
+Ring Effects - Possibly Full
+Monster Skills
+Monster Effects
+Gm skills don't get maxed
+Forced Map Returns added with offline exp fixer
+Login Port in world.properties
+Beginners start with 20 buddy slots (GMS-like)
+Guilds and BBS, old stuff
+Teleport rocks work, Smegas work
+MultiLeveling
+Everything with pets work
+Chairs Work
+Summons, Commands, Morphs, Salons Work, GM Map has hair/eye changer
+Guild Prices are GMS like
+Prices are GMS like
+Old Drop System
+Auto Warp Out after PQ
+Showa and Orbis Exchange quests
+Trade Button Warps to FM
+2x Exp card working
+Full wedding if npcs are made.
+Mount exp/leveling/fatigue
+Dash Working
+Robos Working
+ServerBot
+Donator Point system + seller in FM
+Karma System
+Parties working
+Drop Rate can be set at 0 without glitching
+MTS Added
+VIP Teleport Rock
+
+GM Features:
+GM Levels
+Only GMs can be 250+, level cap at 250 with auto congrats
+GMs can fame as much as they want to
+Clones
+GMs can choose whether to chat in white or not
+GMs cannot be banned
+GMs don't get DISREGARD THAT I SUCK COCK
+Killall gives Exp and Drops
+GMs gain more hp/mp on level up
+All Scrolls Work for GMs and don't lose slots
+An Admin (owner) can be set in world.prop
+New Characters that are created in a GM account are GMs.
+Set people as interns from karma system.

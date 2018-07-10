@@ -1,0 +1,584 @@
+ThePack Updates:
+[+] = Moogra's Updates
+[-] = Other's Work, Credits Given
+
+Revision 1:
+[+]Initial Upload
+[+]Many Changes
+[+]TODO list much shorter
+[-]Added Reborns (airflow0)
+[-]Added fixes from AcEvolution, ShinyKirby, MiniAxel
+
+Revision 2:
+[+]MapleCharacter fixes
+[+]Took out shop commands temporarily
+[-]Fixes in many methods/classes from Valhalla
+[-]Updated to rev 168 valhalla
+
+Revision 3
+[+]Updated SQL
+[+]Fixed NPCs at map 0 and shanks
+[-]SexBot added (Sathon, removed)
+[-]Clones added (Trait0r)
+[-]Forced Map Returns added with offline exp fixer (partially from ZeroFusion)
+[+]Shop commands readded with their shops
+[+]Commands updated
+[+]Reborns now fully working
+[-]Login Port in world.properties (Aexr)
+[+]Additional fixes
+[+]Cash shop no longer crashes you, but does not work
+
+Revision 4
+[-]Fixed Cash Shop (NightCoffee)
+[+]Fixed GM levels
+[+]Only GMs can be level 250+ now
+[+]Fixed Small Things
+[-]AP is now based on reborns count as well (Zerofusion, taken out in Rev18)
+[+]NPCs updated -- nx seller added, first npc now gives random stat items
+[+]Bak files deleted
+
+Revision 5
+[+]Guns work again
+[+]GM Chat fixed
+
+Revision 6
+[+]Octopus/Pirate birds fixed
+[+]Zakum working again
+[+]High damage autoban removed, normal autoban disabled
+
+Revision 7
+[+]Moved Stuff (no updates)
+
+Revision 8
+[+]Shortened boss summoning for zakum
+[-]Added Boss Monitors (flowsionms)
+[-]Bomberman PvP (kippieeej)
+[+]Commands updated
+[-]Heaven Hammer fix (airflow0)
+[-]Mana Reflection added (airflow0)
+[+]VIP tele rock added
+[+]Maple Island blocked from tele rock
+[+]Small other updates
+[-]Cody Fixed (Maple1134)
+[+]Removed Commands Folder in scripts (to be added soon)
+
+Revision 9
+[+]NX Seller fixed
+[-]Duey has a purpose now (hieroglyphics)
+[+]Pet creation fix for pet id -> 100
+[+]Autoban disabled
+
+Revision 10
+[+]Command Cleanup
+[-]Happyville item pickup fix (kipieeej)
+[-]Meso bag drop fix (ragezone)
+[+]GM Scrolling fix
+[-]Mana Reflection fix (airflow0)
+
+Revision 11
+[+]Summons fixed
+[+]Login_*.bat fixed
+[+]Henesys Taxi fixed
+[+]!Search added for the noobs that use PCMaple and can't seem to remember !id is !search. 
+[+]!level and !levelup made shorter
+[-]Instant monster kill autoban (lailainoob)
+
+Revision 12
+[+]GM Shops added -- some removed in rev 49-51
+[+]Pirate Shop added
+[+]Intern Commands updated
+[+]Multipets save to db
+[+]SQLs updated
+
+Revision 13
+[-]PvP added (airflow0)
+[-]Bomberman PvP npcs added (kippieeej)
+[+]Pirate option added to first npc
+[+]Shortened some scripts
+[+]Couple skills modified
+[+]New SQL added
+[+]Cody fixed
+
+Revision 14
+[+]Fixed character creation 
+[+]PvP Warper added
+
+Revision 15
+[+]SQLs added for the noobs
+[+]PvP added into shanks
+[+]Cody should be fixed now
+[+]Exp modified
+[+]!goto command added
+
+Revision 16
+[-]Autoban may be disabled in world.properties (trait0r, removed)
+[+]Kipe bans set to regular bans (autoban disabled won't affect it)
+[+]PQs now accept 1 person, kpq lets GMs pass unopened portals
+[+]Fixed Duey npc
+[+]Added a donator command/command cleanup/update
+[+]Small glitches fixed
+
+Revision 17
+[+]Fixed double uppercut
+[+]High damage autoban removed
+[+]Default npcs say I am not coded -- removed
+[+]GM scrolling doesn't take slots
+[+]Autoban removed
+
+Revision 18
+[+]Command chat fixed
+[+]More autoban turned to warnings
+[-]Added mounts exp/leveling (PurpleMadness)
+[-]Added mount feeding (PurpleMadness)
+[-]Mounts get tired and you can view them in charinfo (PurpleMadness)
+[-]Donators/Players may get nx dropped from mobs  (iamSTEVE, removed)
+[-]Wedding (anujan, removed later)
+[+]Mount exp rate added
+[+]Mount exp/pet exp commands added
+[-]Bomberman pvp fixed (lailainoob's script)
+[+]Fixed orb gains -- pick whether or not only heros can get them in world.prop
+[+]Added many methods to npcconversationmanager
+[+]Added donator point function
+[+]Added donator point npc
+[+]Robo Fix (coasterguy26)
+[+]Parties Fixed
+[+]Fixed Dash
+[+]Fixed up first NPC
+[+]New Karma system (-50 GMs can ban, 50 GMs may set as intern)
+[+]Karma system saves
+[+]Players can raise drop Karma if they have over 40 karma
+[+]Karma system upgraded: 30+ karma=1.1x exp, 1.5x drops
+[+]Summons fixed
+[-]ServerBot (zerofusion, removed)
+[-]@bot added to help (zerofusion, removed)
+[+]All NPCs say something if prompted to in world.properties
+[+]Fixed other NPCs (2101,22000,around 4 more)
+[+]Added Shutdown dupe exploit patch -- removed
+[+]Autohide when changing channels/logging in
+[-]Permanent dispose fix (MrMysterious)
+[-]Meso rate taken account in quests/shops (oknoproblem)
+[-]Magic Scales no longer DC (sy567)
+[-]Added PQs - Most don't work yet (Jvlaple)
+[-]Capsules now rechargable (burner)
+[+]Command cleanup - Improved Commands !item, !notice/!say, !drop/!droprandomstatitem
+[-]Scrolls can max stats when in !scrollmax mode (MiniAxel, removed)
+[+]!addcommand added, can add npcs and shops ex: !addcommand spawn 100100 10 !snail 2
+[+]Cannot die/use @fmnpc in jail
+[+]Level ups more GMS-like
+[+]!buffme is fixed and improved to an array + for loop
+[-]Heal/Potions disabled from PvP Map (Kaget of CEF)
+[-]Admin (owner) can be set in world.prop (MiniAxel for idea, removed)
+[-]Buying stars quantity fixed (tamekii)
+[+]Working quests temp fix by using my quests.wz
+[+]Shortened maxAllSkills at least 10 times (33 lines instead of 340+ lines)
+[+]Removed report commands because no one really uses them, reports still work
+
+Revision 19
+[+]Scrolling Fixed
+[+]Heal Fixed
+[-]Battleship Fixed (signalize)
+[-]Trade Fixed (signalize)
+[+]Other stuff Fixed
+
+Revision 20
+[-]MiniGames added (aexr)
+[-]Paralyze fix (burner)
+[-]Blank Shot Stun fix (burner)
+[+]Uploaded to SVN
+
+Revision 21
+[+]Fixed level 200+ leveling
+[-]Fixed MiniGames (aexr)
+
+Revision 22
+[+]Omok/Cards fixed
+[+]Exp Fixed 
+
+Revision 23
+[+]Fail.txt added (no update)
+
+Revision 24
+[+]Deleted all files (no updates)
+
+Revision 25
+[+]Added all files (no updates)
+
+Revision 26
+[-]Added item lock command and function (Malefic)
+
+Revision 27
+[-]MiniGame fixed and tested (aexr)
+[-]Shutdown Exploit Fix (oknoproblem)
+[-]Proper Monster Spawns (lailainoob)
+
+Revision 28
+[+]Repack made more noob-friendly
+[+]Automsg tips changed
+[+]Sera edited, but Sera should be removed from Map 1
+[+]isApproved Shutdown removed due to confusion
+[+]Removed non-working MaxStat Scroll commands
+[+]Command/Class/Method cleanup
+[+]Shop Meso Rate added
+[+]Karma system fixed/modified
+[-]Monster Bomb fix (lailainoob)
+[-]Permanent LoggedIn fix (zerofusion, removed)
+[-]Test for Maple Player Shops, might work (aexr)
+[-]MTS (trait0r)
+
+Revision 29
+[+]Singaporean Drop SQL fixed
+[-]Added a few MTS Fixes (trait0r)
+[-]Delete Character cleanup (lailainoob)
+[-]Null NPC Script Fix (lailainoob)
+[-]Summon fix! NO MORE ERROR 34 (aexr)
+[-]Puppet Fix (Yoshiro)
+[+]Proper credits added
+
+Revision 30
+[+]Removed @toggleexp @toggleexp exploit
+
+Revision 31
+[+]Added Everything (no updates)
+
+Revision 32
+[+]Fixed Compiling (no updates)
+
+Revision 33
+[+]Fixed compiling (no updates)
+
+Revision 34
+[+]Added quests folder, somehow it wasn't working
+
+Revision 35
+[-]Valhalla updates (Airflow0, Jvlaple, sparks)
+[-]Partial wedding (Jvlaple)
+[-]Skill fixes (Airflow0)
+[+]Cleanup
+
+Revision 36
+[+]Fixed mounts
+[-]Added ShutdownHook (Jvlaple, removed)
+[-]Adding Wedding Class (Jvlaple)
+
+Revision 37
+[-]MapleTV Added (MrMysterious)
+[-]Weddings Added (Jvlaple)
+xKPQ better (credits missing)
+[+]NPC Chat fixed
+[-]Marriage NPCs added (Jvlaple)
+[-]Ring Effects added (Jvlaple)
+
+Revision 38
+[-]New Marriage SQL Added (Jvlaple, modified)
+
+Revision 39
+[+]Readded Marriage SQL and it's not missing.
+
+Revision 40
+[-]Added Marriage SQL again for people and 100% fixed (Yummy)
+[-]Double Login fix (iamSTEVE, removed)
+[+]Playerloggedinhandler.java cleanup
+[+]Removed LimitedCommand for the time being
+[+]Added FAQ.txt
+
+Revision 41
+[+]Fixed shops
+[+]Attempt at fixing login glitch
+
+Revision 42
+[+]Semi Fixed debuffs dispel
+[+]Added a !mute command Syntax: !mute [person]
+[+]MapleCharacter.java cleanup, may cause less lag?
+
+Revision 43
+[+]Removed Everything (no updates)
+
+Revision 44
+[+]Reverted to Revision 34 and readded most things, skills work now
+
+Revision 45
+[+]Dash Fixed Fully
+[+]Buddy List cleanup
+[+]Mute command fixed
+
+Revision 46
+[+]Removed Sexbot
+[+]Removed autoban from world.properties (buggy)
+[+]Command/Random cleanup
+
+Revision 47
+[+]Boss drop fixed
+
+Revision 48
+[+]Monster drop speed fixed
+[-]Monster Magnet fix (yOshirO)
+
+Revision 49
+[+]Major cleanup such as spaces removed, autoregister numbers, npcconversationmanager shortened
+[+]LimitedCommand.java deleted, all methods used exclusively in it are deleted
+[+]Removed DoubleCardHandler.java and all methods related to it
+[+]APQ commented out
+[+]@killplayer removed and all methods related
+[+]Changed a few methods such as FameStatus
+[+]Fixed gaining pets with !item, took out some optionalintarg
+[+]Removed !song, !unjail, !lolcastle, !gmsonline, !ring, @changename, !gmscroll, !cast
+[+]Added !gaindonatorpoint, !setdonatorpoint
+[+]Maxstatscroll totally removed
+
+Revision 50
+[+]Sera should warp right away now
+[+]Fixed Nimakin
+[+]Cleanup
+[+]Totally removed autoban, you can enable by uncommenting
+[-]Added !goto (signalize)
+[+]Added !unjail
+
+Revision 51
+[+]Fixed !goto
+[+]Removed useless stuff such as spaces, builder.append, test comments
+[+]Removed .sh files
+
+Revision 52
+[+]Gave credits, try to find a more complete list of credits
+[+]Shortened spawn commands, removed !curse
+[+]SQL Run Order List added
+[+]NewMarriage.SQL fixed so it doesn't matter when it's run
+
+Revision 53
+[-]Fixed Horntail spawn (aexr)
+[+]Command cleanup
+[-]Goto Command changed and tested (Shinji-Ikari)
+[+]When rasing Karma, GMs don't get message.
+[+]!removenpcs remove only custom NPCs now.
+[+]Meso Drop autoban removed, it's impossible to drop more than 50k right now anyways
+
+Revision 54
+[-]Made NewMarriage.sql easier to use (yummy)
+[-]Puppet summon infinite hp fix (lailainoob)
+[+]Rewrote fame npc 9000017
+[+]Rewrote npc 2050016 which is the fm22 teleporter
+[+]Donators get 1.1x exp, but not GMs
+[+]Fixed guild disband
+[-]Wedding party stuff (Anujan)
+[+]Updated FAQ
+
+Revision 55
+[+]Took out ServerBot
+[+]Fixed Cash Shop and tested
+
+Revision 56
+[+]Simplified NewMarriage.sql. Now it should work for everyone
+[+]GMLevel cleanup
+[+]Took out allNPCTalk in ChannelServer.java since it's not used
+[+]Random Cleanup
+[+]You can now pick the number of worlds you want through World.properties
+
+Revision 57
+[+]Forgot to take some parts out of ServerBot
+[+]SQL update
+
+Revision 58
+[+]Major NPC Cleanup/Recode - Whoever coded the Ariant NPCs fails, 90% missed cm.dispose(), 5% spelled dispose wrong, etc.
+[+]Removed Zakumlvl
+[+]Command update/cleanup
+[+]Files that were in wrong places moved
+[+]Removed zakumlvl from sql
+
+Revision 59
+[-]Armory NPC (lailainoob)
+[+]Deleted useless files/methods that were repeats
+[+]Exptable.java modified
+[+]Added a method to MapleCharacter.java
+[+]Command cleanup/Other Cleanup
+[+]Testing new !levelup command, shop commands.
+[-]Reset Map function (lailainoob)
+[-]9 Spirit buff (lailainoob)
+[-]Singapore Boss (lailainoob)
+[+]Added Quests folder
+[-]1 quest (RMZero213 & Xterminator)
+
+Revision 60
+[+]Added Karma Exchange NPC - use karma for benefits npc 1022005
+[+]Double Exp/Drop Card
+[+]A few more functions in NPC Conversation manager
+
+Revision 61
+[-]Knuckles/Guns cannot be equipped with shields (V1ralOA)
+[+]Slightly edited first NPC, now 1 option less
+[+]The usual command cleanup/shortening
+[-]New SQL Shop for Fredrick (iamSTEVE, edited by Moogra)
+
+Revision 62
+[+]Fixed at least 15 NPCs
+[-]Fixed Ring Packet (MrMysterious)
+[-]Airflow's Cleanup (Airflow)
+[+]Command Shortening once again/Cleanup
+[-]Spouse Chat (Haiku01)
+[-]Party Functions (Haiku01)
+
+Revision 63
+[+]Fixed Regular attack
+
+Revision 64
+[+]REALLY Fixed Regular Attack
+[+]Fixed Summon Damage
+[+]Random Cleanup
+
+Revision 65
+[-]Move Summon Packet Fix (MrMysterious)
+[+]Another 20+ NPCs recoded
+[+]Fixed !level commands
+[+]Generalchathandler fixes
+[+]Cleanup
+[-]Pet HP/MP (PurpleMadness)
+
+Revision 66
+[+]Recoded Boss Summoner, many more benefits
+[+]Reactors reset in Boss Maps
+[+]Buff NPC no longer takes mesos as the old price was 1 meso
+[+]Random Cleanup
+[+]Fixed !level finally
+
+Revision 67
+[+]Item Drop Fix
+[+]NPC Cleanup
+[+]Buff NPC Fixed
+[+]PvP NPC, Shanks shortened
+[+]Took out !hackequip
+[+]Random Cleanup
+
+Revision 68
+[+]Organized World.properties
+[+]Added a new function into NPCConversationManager.java
+[+]Cleanup
+[+]Command fixes such as !event
+[+]Removed stupid NPCs that were redundant
+[+]Recoded a few NPCs, cleaned others up
+[+]FoJ is now every 2 hours to give winnings actual value
+[+]Greatly improved Boss Summoner, JukeBox NPC
+[+]Fixed many NPCs, the current goal is to fix/recode all of them and not make more custom NPCs
+[+]Updated FAQ, Features
+
+Revision 69
+[-]VIP Teleport Rocks (iamSTEVE)
+[+]Random cleanup
+[+]PvP Map uses PvP Map list from MapleCharacter
+[+]Removed unneeded files and methods
+[+]Recoded NX Cash Seller
+[+]Continued NPC script cleanup, recode
+
+Revision 70
+[+]Fixed !buffme
+[+]Pet Name Changer uses Pet Name Changer item now
+[+]Fixed Karma Shop
+[+]Shortened a few NPCs into10 or fewer lines
+[+]No more warnings in stat resetter
+[+]Shortened first NPC.
+[+]Shortened Shanks
+[+]Cleanup for commands and more
+
+Revision 71
+[+]SQL Scripts name changed
+[+]Fixed up PigTown event script
+[+]Cleanup on many NPCs including Job Advancer, Kin/Nimakin
+[+]Fixed up salons
+[+]Removed duplicated npcs
+[+]Command cleanup and other cleanup
+[+]Removed logging messages while picking up items
+[+]Added more credits
+[+]No GM buffs upon login, just regular buffs
+[+]Fixed JukeBox NPC
+[+]New Stat Reset NPC
+
+Revision 72
+[+]Cleanup
+[+]Commands in alphabetical order for easy searching
+[+]Minor fixes
+[+]!horntail fixed
+[+]Starter.bat doesn't need typing to start
+
+Revision 73
+[+]Removed Non-Working NPCs
+[+]Fixed !horntail actually
+[+]Fixed Stat Reset
+
+Revision 74
+[+]Fixed GMLog
+[-]Grenade fix? (MrMysterious)
+[+]Corrected Singapore drop rates
+[+]Corrected stat reset for sure if rev 73 didn't work
+[+]Semi fixed Squad NPC for zakum but you have to enable event
+[+]Shortened stat resetter
+[+]Misc. Cleanup
+[+]Old NPC opening
+[+]Command Cleanup
+
+Revision 75
+[+]Fixed major command bug
+
+Revision 76
+[+]Cleanup ->Commands/npcs/other
+[+]Rebirth method now in MapleCharacter
+[+]NPCs shortened and a few are more GMS-like
+[+]Some NPCs semi-fixed
+[+]FoJ NPC fixed, NX Seller has better format
+[+]Shortened Starter.bat, 5 sec wait is unneeded
+
+Revision 77
+[+]Credits updated
+[+]Guild Hideouts removed
+[+]BuddyList set to 20 at default
+[+]Robo-Seller (npc 9250029), many NPCs coded
+[+]Cleanup in Java Classes
+[+]New !killallmany command
+[+]Shortened some commands
+[+]Gaining pets work now
+[-]Reactor Fixes (LaiLaiNoob)
+[-]Spawn Monster Fixes (LaiLaiNoob)
+[+]NPC Cleanup
+[+]Command cm.resetReactors resets map properly
+[+]Temp morph fix
+[-]DeregisterStat fix (ThievingSix)
+[+]Fixed Music NPC, fixed small error in Shanks
+[+]Fixed SQLs and More
+[+]Removed Non-Working Quest
+[+]Mute really mutes user now, got rid of DISREGARD THAT I SUCK COCK
+
+Revision 78
+[-]Storage NPCs fixed/added (ChocoPie)
+[-]Hotel NPC fixed (ChocoPie)
+[-]Pirate ranking update (Spyker)
+[+]KerningPQ fixed? Cloy fixed?
+[+]BomberMan PvP removed
+[+]Reactor reset map fixed
+[+]@fmnpc fixed
+[+]Pirate Shop edited for more stability
+[+]Java cleanup, Command cleanup, NPC cleanup
+[+]Transform fixed
+[-]Alchemist fix (LaiLaiNoob)
+[+]Random skill cleanup
+
+Revision 79
+[+]GM Log disable is possible
+[-]ZakumBattle event is now possible (XkelvinchiaX)
+[+]Cody Cleanup
+[-]Map 40000,50000 fix (flav)
+[-]Energy Charge (xcheater3161)
+[+]Removed !addcommand
+[+]Added energy drain
+[+]Set energy drain only for marauders and buccaneers
+[+]Random Cleanup, credits all given
+[-]Town Scroll fix (rlaehdwns4)
+
+Revision 80
+[+]Fixed compiling
+
+Revision 81
+[+]Removed Everything
+
+Revision 82
+[+]MiniGames cleanup
+[+]Fixed morphs
+[+]Fixed Cody
+[+]Skillbook fix
+[-]Energy Charge Fix

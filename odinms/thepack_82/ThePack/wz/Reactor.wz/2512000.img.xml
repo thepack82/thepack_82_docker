@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2512000.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#32154;&amp;#30415;&amp;#10832;&amp;#21113;&amp;#42238;&amp;#24869;&amp;#32231;&amp;#54844;&amp;#26719;&amp;#36708;&amp;#22267;&amp;#12894;&amp;#23365;&amp;#29305;&amp;#49740;"/>
+		<string name="link" value="2511000"/>
+	</imgdir>
+	<string name="action" value="davyItem0"/>
+</imgdir>

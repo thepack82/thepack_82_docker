@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="01012104.img">
+	<imgdir name="info">
+		<canvas name="icon" width="26" height="27">
+			<vector name="origin" x="-5" y="28"/>
+		</canvas>
+		<canvas name="iconRaw" width="24" height="25">
+			<vector name="origin" x="-5" y="28"/>
+		</canvas>
+		<string name="islot" value="Af"/>
+		<string name="vslot" value="Af"/>
+		<int name="reqJob" value="0"/>
+		<int name="reqLevel" value="0"/>
+		<int name="reqSTR" value="0"/>
+		<int name="reqDEX" value="0"/>
+		<int name="reqINT" value="0"/>
+		<int name="reqLUK" value="0"/>
+		<int name="cash" value="1"/>
+	</imgdir>
+	<imgdir name="default">
+		<canvas name="default" width="4" height="4">
+			<vector name="origin" x="0" y="0"/>
+			<imgdir name="map">
+				<vector name="brow" x="6" y="-23"/>
+			</imgdir>
+		</canvas>
+	</imgdir>
+	<imgdir name="blink">
+		<imgdir name="0">
+			<uol name="default" value="../../default/default"/>
+		</imgdir>
+		<imgdir name="1">
+			<uol name="default" value="../../default/default"/>
+		</imgdir>
+		<imgdir name="2">
+			<uol name="default" value="../../default/default"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

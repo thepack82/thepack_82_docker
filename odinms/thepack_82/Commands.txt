@@ -1,0 +1,196 @@
+ThePack Commands
+------------------------------------------------------------------------
+
+Admin Commands
+For characters with a GM level of 5 or higher.
+
+!pmob        [mobid] [mobtime] - Permanently creats a mob at that point.
+!pnpc        [npc]             - Permanently creates a npc at that spot.
+!sql         [command]         - Does an ingame SQL Command.
+!setGMLevel  [person][level]   - Set's [person]'s GM level to [level].
+!shutdown    [minutes]         - Shuts down server.
+!shutdownnow                   - Shuts the server down immediately.
+
+------------------------------------------------------------------------
+
+Super Commands
+For characters with a GM level of 4 or higher.
+
+!checkkarma [user]             - Check karma of the user.
+!dcall                         - Disconnects everyone in the server.
+!horntail                      - Spawns Horntail.
+!givedonatorpoint [user] [num] - Gives [user] [num] donator points.
+!npc [npcid]                   - Spawns a NPC [npcid].
+!removenpcs [npc arraylist]    - Removes every npc in [npc arraylist].
+!ringme [ringid] [user]        - Gives self a ring with [user].
+!sex [user] [type] [message]   - Sends a Smega for [User] with the message [message].
+!speak [user] [message]        - Makes [user] say [message].
+!unban [userid]                - Unbans [user]'s IP and account.
+!zakum                         - Spawns Zakum.
+
+------------------------------------------------------------------------
+
+GM Commands
+For characters with a GM Level of 3 or higher.
+
+MONSTER COMMANDS:
+!anego                         - Spawns Anego.
+!balrog                        - Spawns Balrogs.
+!bird                          - Spawns Phoenix and Freezer.
+!blackcrow                     - Spawns Black Crow.
+!bob                           - Spawns Bob the Snail.
+!centipede                     - Spawns Centipede.
+!clone                         - Spawns Clone Bosses.
+!coke                          - Spawns Coke Monsters.
+!ergoth                        - Spawns Ergoth.
+!franken                       - Spawns Frankensteins.
+!horseman                      - Spawns Headless Horseman.
+!leafreboss                    - Spawns Bosses of Leafre.
+!loki                          - Spawns Loki Box.
+!ludimini                      - Spawns Minibosses.
+!mushmom                       - Spawns Mushmoms.
+!nx                            - Spawns 10 NX Slimes.
+!pap                           - Spawns Papulatus.
+!papapixie                     - Spawns Papa Pixie.
+!pianus                        - Spawns Pianus.
+!pirate                        - Spawns Pirates.
+!snackbar                      - Spawns Snack Bar.
+!theboss                       - Spawns The Boss.
+
+STAT COMMANDS:
+!str [number]                  - Sets [number] as str.
+!dex [number]                  - Sets [number] as dex.
+!luk [number]                  - Sets [number] as int.
+!int [number]                  - Sets [number] as luk.
+!ap  [number]                  - Sets [number] as ap.
+!sp  [number]                  - Sets [number] as sp.
+!allocate [stat] [num]         - Add [num] to the stat [stat].
+!exp [number]                  - Sets [number] as exp.
+!god                           - Sets Hit-Godmode.
+!level [number]                - Sets [number] as level.
+!maxall                        - Maxes stats.
+!setall [number]               - Sets Str/Dex/Int/Luk as [number].
+
+RATE COMMANDS:
+!exprate [num]              - Sets exp rate as [num].
+!mesorate [num]             - Sets meso rate as [num].
+!droprate [num]             - Sets drop rate as [num].
+!bossdroprate [num]         - Sets boss drop rate as [num].
+!petexprate [num]           - Sets pet exp rate to [num].
+!mountexprate [num]         - Sets mount exp rate to [num].
+!shopmesorate [num]         - Sets shop meso rate to [num].
+
+PERSON COMMANDS:
+!giftnx [user] [amount]        - Gifts [user] [amount] nx.
+!healperson [user]             - Heals [user].
+!healmap                       - Heals the whole map.
+!hurt [name]                   - Sets HP/MP of name to 1.
+!jobperson [person] [jobid]    - Gives [person] job with jobid [jobid].
+!kill [user]                   - Kills [user].
+!killeveryone                  - Kills everyone in the server.
+!killmap                       - Kills everyone in your map. 
+!levelperson [user] [level]    - Set's [user] to level [level].
+!lolhaha [user]                - Switches the gender of [user].
+!mesoperson [user] [mesos]     - Gives [user] [mesos] mesos.
+!mute [person]                 - Mutes the person
+!slap [person] [damage]        - Slaps [person] with [damage] damage. 
+!warphere [user]               - Warps [user] to your map.
+!warpmap [map]                 - warps everyone in your map to [map].
+!karma [up/down] [victim]      - Raises or drops the karma of a user.
+
+SELF COMMANDS:
+!chattype                      - Switches your GM white chat to black, or vice-versa.
+!fakechar [num]                - Creates a clone of you [num] times.
+!fame                          - Sets your fame to [number].
+!heal                          - Heals you to max.
+!job [jobid]                   - Changes your job to [job].
+!levelup                       - Levels you up.
+!maxall                        - Maxes all your stats.
+!mesos [number]                - Adds [number] mesos to your account.
+!skill [skill] [level]         - Gives you [skill] at level [level].
+!warp [mapid] [portal]         - Warps you to [mapid] and portal [portal].
+
+BAN COMMANDS:
+!ban [user] [reason]           - Ban [user].
+!dc [user]                     - Disconnects [user].
+!getnamebyid [id]              - Gets the name of a user with id [id].
+!jail [jailnum] [user]         - Jails [user].
+!unjail [user]                 - Sends [user] to Henesys.
+
+MESSAGE COMMANDS:
+!mute [user]                   - Mutes [user].
+!notice [message]              - Sends a notice to the whole server.
+!say [message]                 - Say a message to the whole server.
+!servermessage [message]       - Changes the world message.
+
+ITEM COMMANDS:
+!drop [id] [amount]            - Drops item with id [id] and amount [amount].
+!droprandomstatitem [id]       - Drops item [id] with random stats.
+!id [name]                     - Searches IDs.
+!item [id] [amount]            - Gains item with id [id] and amount [amount].
+
+WHERE USERS COMMANDS:
+!charinfo [user]               - Gets Character info.
+!connected                     - Shows how many people are connected to the server.
+!pos                           - Shows your position in your map.
+!whereami                      - Shows what map you are in.
+!whosthere                     - Shows who's in the map.
+
+OTHER COMMANDS:
+!cancelBuffs [user]            - Cancels buffs of [user].
+!cleardrops                    - Clears all drops on the map. 
+!clock [time]                  - Creates a clock with time limit [time].
+!fakerelog                     - Fake relogs your character.
+!event                         - Starts an event in your map.
+!killall                       - Kill all monsters in the map.
+!killallmany                   - Kill all the monsters in your map and others' maps.
+!openshop [shop]               - Opens a shop with id [shop].
+!saveall                       - Saves the server.
+!showMonsterID [mob]           - Shows monster id of [mob].
+!spawn [mob] [amount]          - Spawns [amount] of monster [mob].
+
+------------------------------------------------------------------------
+
+Intern Commands
+Only available for GM Level of 2 or higher.
+
+!glimmer                       - Opens a shop that sells NLC items.
+!gmshop                        - Opens the GM Shop.
+!maple                         - Opens a shop that sells maple items.
+!misc                          - Opens a shop with chairs, gloves and rare items.
+!sbag                          - Opens the summon bag shop.
+!scroll                        - Opens the scroll shop.
+!cheaters                      - Shows the cheaters in the server. 
+!map [mapid]                   - Warps you to [mapid].
+
+------------------------------------------------------------------------
+
+Donator Commands
+Only available for GM level of 1 or higher.
+
+!buffme                        - Gives you a variety of buffs.
+!online                        - Shows how many people are online.
+!goto [map]                    - Go to [map].
+
+------------------------------------------------------------------------
+
+Player Commands
+Available for all players.
+
+@bot                          - Helps you with the server bot.
+@checkkarma                   - Shows how much karma you have.
+@credits                      - Shows Credits.
+@dispose                      - Use if you're stuck.
+@emo                          - Kill yourself.
+@expfix                       - This resets your exp to 0.
+@fmnpc                        - Opens Shanks.
+@help                         - This shows all the player commands.
+@karma [raise/drop] [user]    - Raises or drops [user's] karma (costs 1 karma to do, 40 needed to use command)
+@rebirth                      - Does Reborn/Rebirth at level 200+.
+@save                         - Saves your data.
+@str [num]                    - Adds [num] str.
+@dex [num]                    - Adds [num] dex.
+@int [num]                    - Adds [num] int.
+@luk [num]                    - Adds [num] luk.
+@version                      - Shows Version.
+@warphere [player]            - Warps [player] to your map, need 5 karma to use.

@@ -1,0 +1,106 @@
+ThePack FAQ
+Last Updated: Revision 77
+
+Q: Why can't I login?
+A: Make sure you have the correct java settings, SQLs all run, and ports forwarded.
+
+Q: Why can't I create a character?
+A: You most likely did not run the SQLs, or loadFromDb in MapleCharacter.java is messed up.
+
+Q: Is my server getting hacked?
+A: If you are running Revision 30 or higher (chances are, you are), you are not getting hacked.
+
+Q: Are bosses glitched?
+A: Boss drops have been reported as glitchy, but they are not glitched.
+
+Q: What happened to MTS?
+A: Go to world.properties and set MTS to true.
+
+Q: Which SQLs do I run and what is this order?
+A: You run all the ones you haven't run yet. If this is your first time, run all of them. Run them by number.
+
+Q: What happens if I cannot connect to the database?
+A: Check your db.properties.
+
+Q: I get errors like cannot parse int. What did I do?
+A: You messed up in world.properties.
+
+Q: What is karma in this repack?
+A: Karma is an alternative to fame written by Moogra. You cannot buy or trade karma. Karma saves into the database and is loaded once a player is logged in, like fame.
+
+Raising and Dropping Karma
+- All players can view their own karma with @checkkarma.
+- Players with Karma of more than 40 can raise or lower another person's karma if they use one karma. They use the command @karma [raise/drop] [player]. 
+- Players with GM Level of 3 or higher can raise normal player's karma by using the command !karma [up/down] [player] as long as [player]'s karma is above -25 and less than 25. When GMs raise or lower one's karma, all the super GMs and Admins are notified to prevent abuse. 
+- Players with GM Level of 4 or higher can raise or drop karma using the same command as GM Level of 3 but have no limit. They can also use !checkkarma [player] (ban/intern) where (ban/intern) is optional.
+
+Karma Benefits
+1. 30 Karma means 1.1x exp
+2. 40 Karma you can raise or lower other people's karma
+3. 50 Karma means you can become a donator
+4.-50 karma means you will be banned
+5. 30 Karma gives you better drops
+6.  5 Karma allows you to warp people around
+7.  1 Karma allows you to buy at least 1 thing from karma shop
+
+Q: How does the GM level system work?
+A: 5 = admin, 4 = super GM, 3 = gm, 2 = intern, 1= donator, 0 = normal
+
+Q: Why don't my commands work?
+A: Set your GM level of characters to 5, or make a new account with GM level 5 and remake character.
+
+Q: OH NO! How do I unstuck myself? It says I am logged in, but I am not!
+A: Run this sql UPDATE accounts SET loggedin = 0
+
+Q: OH NO! I can't talk to NPCs! What do I do?
+A: Use @dispose.
+
+Q: How do I change rates in game?
+A: Use commands such as !exprate, !mesorate, etc.
+
+Q: Where are Guild Hideouts?
+A: They are gone in revision 77.
+
+Q: Is map lag and crash fixed?
+A: Yes
+
+Q: Do summons not disconnect the map?
+A: Yes
+
+Q: Why don't my characters save?
+A: You're missing a few SQLs, read the bat error. There really aren't any rollbacks.
+
+Q: How do you take out a skill?
+A: First remove it from maxAllSkills() in MapleCharacter.java. Then run a sql query delete from skills where id = SKILLID
+
+Q: What happened to Limited Commands?
+A: They were taken out because they were pretty useless.
+
+Q: Which SQLs do I run if I've already run some?
+A: Run the ones that you haven't run.
+
+Q: How do you edit PvP Maps?
+A: Go to MapleCharacter.java and add IDs to isPvPMap().
+
+Q: Why don't buffs cancel after the correct time?
+A: The default skill.wz has super-skills -- buffs that last for around half an hour.
+
+Q: I compiled, replaced jars and it says something about checking my opcodes. What does this mean?
+A: You have to replace the sendops and recvops.
+
+Q: Why are some releases not being added to this repack? They are good!
+A: Moogra thinks differently. If it's released, then most likely it doesn't need compiling. If it's too far from GMS, then it is not needed as ThePack is as far away as GMS as it needs to get. If it's an NPC that has typos and/or grammatical errors, then it won't be added unless it is actually decently coded.
+
+Q: How do I contact Moogra?
+A: You don't. You post on the release thread on RaGEZONE.
+
+Q: I posted on RaGEZONE. Why is my question being ignored?
+A: One or more of the following reasons: 
+   -Moogra is offline. 
+   -Moogra doesn't want to answer. 
+   -The question has been answered. 
+   -It's not a bug. 
+   -You didn't read the FAQ (ironic, isn't it?).
+
+Q: What repack is this?
+A: This is ThePack, created by Moogra.

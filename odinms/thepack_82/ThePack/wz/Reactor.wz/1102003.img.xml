@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1102003.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#31642;&amp;#7267;&amp;#17380;&amp;#8261;&amp;#51202;&amp;#44893;&amp;#52919;&amp;#55520;&amp;#6943;&amp;#20357;&amp;#37201;"/>
+		<string name="link" value="0002000"/>
+	</imgdir>
+	<string name="action" value="florinaBox0"/>
+</imgdir>

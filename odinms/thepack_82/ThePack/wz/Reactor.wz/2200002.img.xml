@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2200002.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#44719;&amp;#41997;&amp;#64122;&amp;#37101;&amp;#30327;&amp;#24885;&amp;#52901;&amp;#26696;&amp;#40986;&amp;#14104;&amp;#22241;&amp;#65514;&amp;#24021;"/>
+		<string name="link" value="2202002"/>
+	</imgdir>
+	<string name="action" value="go922010201"/>
+</imgdir>

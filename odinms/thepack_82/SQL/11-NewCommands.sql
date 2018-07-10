@@ -1,0 +1,10 @@
+﻿CREATE TABLE `odinms`.`newcommands` (
+  `id` INTEGER UNSIGNED NOT NULL AUTO_INCREMENT,
+  `type` VARCHAR(45) NOT NULL,
+  `monsterid` INTEGER UNSIGNED NOT NULL,
+  `quantity` INTEGER UNSIGNED NOT NULL,
+  `name` VARCHAR(45) NOT NULL,
+  `gmlvl` INTEGER UNSIGNED NOT NULL,
+  PRIMARY KEY (`id`)
+)
+ENGINE = InnoDB;

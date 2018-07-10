@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9102001.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#5314;&amp;#25419;&amp;#12100;&amp;#15421;&amp;#46938;&amp;#24869;&amp;#52927;&amp;#41321;&amp;#40962;"/>
+		<string name="link" value="9102000"/>
+	</imgdir>
+	<string name="action" value="sBoxItem1"/>
+</imgdir>

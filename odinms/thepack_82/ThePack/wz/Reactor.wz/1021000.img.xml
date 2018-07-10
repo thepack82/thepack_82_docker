@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="1021000.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#27062;&amp;#27710;&amp;#15632;&amp;#37117;&amp;#46727;&amp;#42645;&amp;#52919;&amp;#26690;&amp;#40971;&amp;#19184;&amp;#58017;&amp;#62758;&amp;#57820;&amp;#2509;&amp;#54968;&amp;#57441;&amp;#4689;"/>
+		<string name="link" value="1020000"/>
+	</imgdir>
+	<string name="action" value="s4hitmanMob0"/>
+</imgdir>

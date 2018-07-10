@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0301.img">
+	<imgdir name="03010000">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="28">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="26">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="price" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="tradeBlock" value="1"/>
+			<int name="notSale" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="58" height="36">
+				<vector name="origin" x="21" y="-16"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010001">
+		<imgdir name="info">
+			<canvas name="icon" width="29" height="29">
+				<vector name="origin" x="-1" y="29"/>
+			</canvas>
+			<canvas name="iconRaw" width="29" height="27">
+				<vector name="origin" x="-1" y="29"/>
+			</canvas>
+			<int name="price" value="500"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="35"/>
+			<int name="reqLevel" value="6"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="41" height="36">
+				<vector name="origin" x="16" y="-15"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010002">
+		<imgdir name="info">
+			<canvas name="icon" width="35" height="34">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<canvas name="iconRaw" width="35" height="34">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<int name="price" value="500"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="reqLevel" value="6"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="40" height="36">
+				<vector name="origin" x="16" y="-14"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010003">
+		<imgdir name="info">
+			<canvas name="icon" width="35" height="34">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<canvas name="iconRaw" width="35" height="34">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<int name="price" value="500"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="reqLevel" value="6"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="40" height="36">
+				<vector name="origin" x="16" y="-14"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010004">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="28">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="26">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="price" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="58" height="36">
+				<vector name="origin" x="21" y="-16"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010005">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="28">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="26">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="price" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="58" height="36">
+				<vector name="origin" x="21" y="-16"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010006">
+		<imgdir name="info">
+			<canvas name="icon" width="35" height="34">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<canvas name="iconRaw" width="35" height="34">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<int name="price" value="5000"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="reqLevel" value="6"/>
+			<int name="tradeBlock" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="40" height="36">
+				<vector name="origin" x="16" y="-14"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010007">
+		<imgdir name="info">
+			<canvas name="icon" width="34" height="26">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<canvas name="iconRaw" width="34" height="23">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="60"/>
+			<int name="reqLevel" value="0"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="62" height="34">
+				<vector name="origin" x="25" y="-19"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010008">
+		<imgdir name="info">
+			<canvas name="icon" width="34" height="26">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<canvas name="iconRaw" width="34" height="23">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryMP" value="60"/>
+			<int name="reqLevel" value="0"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="62" height="34">
+				<vector name="origin" x="25" y="-19"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010009">
+		<imgdir name="info">
+			<canvas name="icon" width="28" height="30">
+				<vector name="origin" x="-2" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="28" height="29">
+				<vector name="origin" x="-2" y="30"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="20"/>
+			<int name="recoveryMP" value="20"/>
+			<int name="reqLevel" value="0"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="74" height="80">
+				<vector name="origin" x="37" y="28"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010010">
+		<imgdir name="info">
+			<canvas name="icon" width="34" height="28">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<canvas name="iconRaw" width="34" height="23">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<int name="price" value="5000"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="tradeBlock" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="62" height="34">
+				<vector name="origin" x="16" y="-14"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010011">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="27">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="26">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="price" value="500"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="75"/>
+			<int name="tradeBlock" value="1"/>
+			<int name="notSale" value="1"/>
+			<int name="reqLevel" value="0"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="58" height="36">
+				<vector name="origin" x="21" y="-16"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010012">
+		<imgdir name="info">
+			<canvas name="icon" width="29" height="31">
+				<vector name="origin" x="-1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="29" height="30">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="price" value="400"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="60"/>
+			<int name="tradeBlock" value="1"/>
+			<int name="notSale" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="86" height="88">
+				<vector name="origin" x="24" y="36"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010013">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="33">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="33">
+				<vector name="origin" x="1" y="33"/>
+			</canvas>
+			<int name="price" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryMP" value="20"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="102" height="110">
+				<vector name="origin" x="51" y="60"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010014">
+		<imgdir name="info">
+			<canvas name="icon" width="46" height="48">
+				<vector name="origin" x="5" y="39"/>
+			</canvas>
+			<canvas name="iconRaw" width="42" height="44">
+				<vector name="origin" x="4" y="35"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="30"/>
+			<int name="recoveryMP" value="30"/>
+			<int name="reqLevel" value="0"/>
+			<int name="tradeBlock" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="92" height="84">
+				<vector name="origin" x="39" y="23"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010015">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="28">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="26">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryMP" value="35"/>
+			<int name="reqLevel" value="0"/>
+			<int name="tradeBlock" value="1"/>
+			<int name="notSale" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="58" height="36">
+				<vector name="origin" x="21" y="-16"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010016">
+		<imgdir name="info">
+			<canvas name="icon" width="34" height="28">
+				<vector name="origin" x="1" y="28"/>
+			</canvas>
+			<canvas name="iconRaw" width="34" height="23">
+				<vector name="origin" x="1" y="28"/>
+			</canvas>
+			<int name="price" value="5000"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="60"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="62" height="34">
+				<vector name="origin" x="25" y="-19"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010017">
+		<imgdir name="info">
+			<canvas name="icon" width="34" height="28">
+				<vector name="origin" x="1" y="28"/>
+			</canvas>
+			<canvas name="iconRaw" width="34" height="23">
+				<vector name="origin" x="1" y="28"/>
+			</canvas>
+			<int name="price" value="5000"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryMP" value="60"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="62" height="34">
+				<vector name="origin" x="25" y="-19"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010018">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="28">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="26">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="40"/>
+			<int name="recoveryMP" value="20"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="118" height="151">
+				<vector name="origin" x="42" y="99"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010019">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="33">
+				<vector name="origin" x="0" y="33"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="32">
+				<vector name="origin" x="0" y="33"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryMP" value="60"/>
+			<int name="reqLevel" value="0"/>
+			<int name="tradeBlock" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="87" height="102">
+				<vector name="origin" x="43" y="51"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010022">
+		<imgdir name="info">
+			<canvas name="icon" width="32" height="33">
+				<vector name="origin" x="0" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="32" height="33">
+				<vector name="origin" x="0" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="recoveryMP" value="50"/>
+			<int name="reqLevel" value="0"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="96" height="98">
+				<vector name="origin" x="48" y="45"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010023">
+		<imgdir name="info">
+			<canvas name="icon" width="32" height="33">
+				<vector name="origin" x="0" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="32" height="33">
+				<vector name="origin" x="0" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="recoveryMP" value="50"/>
+			<int name="reqLevel" value="0"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="96" height="98">
+				<vector name="origin" x="48" y="45"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010024">
+		<imgdir name="info">
+			<canvas name="icon" width="34" height="26">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<canvas name="iconRaw" width="34" height="24">
+				<vector name="origin" x="1" y="26"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="recoveryMP" value="50"/>
+			<int name="reqLevel" value="0"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="53" height="37">
+				<vector name="origin" x="4" y="-14"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010025">
+		<imgdir name="info">
+			<canvas name="icon" width="33" height="29">
+				<vector name="origin" x="1" y="29"/>
+			</canvas>
+			<canvas name="iconRaw" width="33" height="26">
+				<vector name="origin" x="1" y="29"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="35"/>
+			<int name="recoveryMP" value="10"/>
+			<int name="tradeBlock" value="1"/>
+			<int name="notSale" value="1"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="164" height="174">
+				<vector name="origin" x="55" y="122"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010026">
+		<imgdir name="info">
+			<canvas name="icon" width="36" height="35">
+				<vector name="origin" x="3" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="36" height="35">
+				<vector name="origin" x="3" y="32"/>
+			</canvas>
+			<int name="price" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="117" height="150">
+				<vector name="origin" x="41" y="89"/>
+				<int name="delay" value="100"/>
+			</canvas>
+			<canvas name="1" width="116" height="150">
+				<vector name="origin" x="41" y="88"/>
+				<int name="delay" value="100"/>
+			</canvas>
+			<canvas name="2" width="116" height="150">
+				<vector name="origin" x="41" y="89"/>
+				<int name="delay" value="100"/>
+			</canvas>
+			<canvas name="3" width="117" height="151">
+				<vector name="origin" x="41" y="90"/>
+				<int name="delay" value="100"/>
+			</canvas>
+			<canvas name="4" width="118" height="152">
+				<vector name="origin" x="41" y="91"/>
+				<int name="delay" value="100"/>
+			</canvas>
+			<canvas name="5" width="118" height="151">
+				<vector name="origin" x="41" y="90"/>
+				<int name="delay" value="100"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010028">
+		<imgdir name="info">
+			<canvas name="icon" width="34" height="32">
+				<vector name="origin" x="1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="34" height="32">
+				<vector name="origin" x="1" y="32"/>
+			</canvas>
+			<int name="price" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="178" height="130">
+				<vector name="origin" x="164" y="78"/>
+				<int name="delay" value="100"/>
+			</canvas>
+			<int name="z" value="3"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03011000">
+		<imgdir name="info">
+			<canvas name="icon" width="35" height="29">
+				<vector name="origin" x="1" y="29"/>
+			</canvas>
+			<canvas name="iconRaw" width="35" height="27">
+				<vector name="origin" x="1" y="29"/>
+			</canvas>
+			<int name="slotMax" value="1"/>
+			<int name="tradeBlock" value="1"/>
+			<int name="price" value="3000"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="75" height="141">
+				<vector name="origin" x="47" y="1"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010040">
+		<imgdir name="info">
+			<canvas name="icon" width="35" height="33">
+				<vector name="origin" x="1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="35" height="33">
+				<vector name="origin" x="1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="recoveryMP" value="50"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="89" height="96">
+				<vector name="origin" x="24" y="48"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="03010041">
+		<imgdir name="info">
+			<canvas name="icon" width="32" height="36">
+				<vector name="origin" x="0" y="34"/>
+			</canvas>
+			<canvas name="iconRaw" width="32" height="36">
+				<vector name="origin" x="0" y="34"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="slotMax" value="1"/>
+			<int name="recoveryHP" value="50"/>
+			<int name="recoveryMP" value="50"/>
+		</imgdir>
+		<imgdir name="effect">
+			<canvas name="0" width="87" height="120">
+				<vector name="origin" x="24" y="70"/>
+			</canvas>
+			<int name="z" value="-1"/>
+			<int name="pos" value="1"/>
+		</imgdir>
+	</imgdir>
+</imgdir>

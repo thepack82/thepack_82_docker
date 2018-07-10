@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0422.img">
+	<imgdir name="04220000">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="1000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220001">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="3000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220002">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="3800"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220003">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="7000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220004">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="13000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220005">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="24000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220006">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="39000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220007">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="60000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220008">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="83000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220009">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="100000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220010">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="140000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220011">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="185000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220012">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="240000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220013">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="310000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220014">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="410000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220015">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="530000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220016">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="700000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220017">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="910000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220018">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="1200000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220019">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="2000000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220020">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="1000"/>
+			<int name="slotMax" value="1"/>
+			<int name="timeLimited" value="1"/>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220021">
+		<imgdir name="info">
+			<canvas name="icon" width="30" height="32">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<canvas name="iconRaw" width="30" height="31">
+				<vector name="origin" x="-1" y="32"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="1000"/>
+			<int name="slotMax" value="1"/>
+			<int name="grade" value="3"/>
+			<int name="questId" value="7647"/>
+			<string name="name" value="&amp;#31563;&amp;#2229;&amp;#64104;&amp;#22437;&amp;#41043;"/>
+			<string name="uiData" value="UI/UIWindow/raise/0"/>
+			<int name="timeLimited" value="1"/>
+			<imgdir name="message">
+				<string name="0" value="&amp;#4510;&amp;#5951;&amp;#17284;&amp;#37117;&amp;#53130;&amp;#54753;&amp;#2851;&amp;#41404;&amp;#40971;&amp;#12877;&amp;#40669;&amp;#12894;&amp;#9860;&amp;#26080;&amp;#54112;&amp;#36897;&amp;#50139;"/>
+				<string name="1" value="&amp;#27118;&amp;#29226;&amp;#15676;&amp;#37117;&amp;#48694;&amp;#53005;&amp;#52919;&amp;#53684;&amp;#5327;&amp;#19184;&amp;#40589;&amp;#32922;&amp;#57810;"/>
+				<string name="2" value="&amp;#27118;&amp;#29226;&amp;#15676;&amp;#37117;&amp;#55862;&amp;#42589;&amp;#52919;&amp;#55964;&amp;#40971;&amp;#18688;&amp;#38896;&amp;#34386;&amp;#21272;&amp;#46043;"/>
+				<string name="3" value="&amp;#27118;&amp;#29226;&amp;#15676;&amp;#37117;&amp;#45058;&amp;#41012;&amp;#31367;&amp;#55964;&amp;#40965;"/>
+			</imgdir>
+			<imgdir name="consumeItem">
+				<imgdir name="0">
+					<int name="0" value="4031838"/>
+					<int name="1" value="100"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220023">
+		<imgdir name="info">
+			<canvas name="icon" width="31" height="31">
+				<vector name="origin" x="-1" y="31"/>
+			</canvas>
+			<canvas name="iconRaw" width="31" height="30">
+				<vector name="origin" x="-1" y="31"/>
+			</canvas>
+			<int name="price" value="1"/>
+			<int name="quest" value="1"/>
+			<int name="only" value="1"/>
+			<int name="exp" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="grade" value="4"/>
+			<int name="questId" value="7660"/>
+			<string name="name" value="&amp;#26658;&amp;#25863;&amp;#64104;&amp;#22616;&amp;#45362;"/>
+			<string name="uiData" value="UI/UIWindow/raise/1"/>
+			<int name="timeLimited" value="1"/>
+			<imgdir name="message">
+				<string name="0" value="&amp;#27602;&amp;#28158;&amp;#64104;&amp;#21913;&amp;#52594;&amp;#24869;&amp;#25108;&amp;#56252;&amp;#40971;&amp;#13232;&amp;#37301;&amp;#64446;&amp;#57820;&amp;#30399;&amp;#42624;&amp;#36897;&amp;#50139;"/>
+				<string name="1" value="&amp;#5982;&amp;#6314;&amp;#13196;&amp;#22441;&amp;#30310;&amp;#42049;&amp;#1643;&amp;#26712;&amp;#30587;&amp;#14075;&amp;#33689;&amp;#40690;&amp;#57820;&amp;#3841;&amp;#54124;&amp;#36897;&amp;#50139;"/>
+				<string name="2" value="&amp;#5982;&amp;#6314;&amp;#13196;&amp;#22441;&amp;#30310;&amp;#43381;&amp;#24735;&amp;#26712;&amp;#4991;&amp;#36708;&amp;#59957;&amp;#62726;&amp;#21272;&amp;#46043;"/>
+				<string name="3" value="&amp;#5982;&amp;#6314;&amp;#13196;&amp;#22441;&amp;#30310;&amp;#52597;&amp;#2511;&amp;#26712;&amp;#4815;&amp;#36708;&amp;#59957;&amp;#62726;&amp;#21272;&amp;#46043;"/>
+				<string name="4" value="&amp;#26810;&amp;#29003;&amp;#15632;&amp;#37117;&amp;#45298;&amp;#41021;&amp;#30699;&amp;#26712;&amp;#7391;&amp;#19112;&amp;#40509;&amp;#33002;&amp;#57820;&amp;#2621;&amp;#43137;&amp;#60161;&amp;#1153;&amp;#11848;&amp;#29049;&amp;#2922;&amp;#20066;&amp;#38312;&amp;#15103;&amp;#61215;&amp;#20263;"/>
+			</imgdir>
+			<imgdir name="consumeItem">
+				<int name="consumeCount" value="6"/>
+				<string name="consumeCountMessage" value="&amp;#5538;&amp;#26263;&amp;#16764;&amp;#21109;&amp;#30310;&amp;#42049;&amp;#2531;&amp;#47396;&amp;#26479;&amp;#36708;&amp;#37677;&amp;#62289;&amp;#23924;&amp;#46037;&amp;#54112;&amp;#57860;&amp;#50133;&amp;#37500;&amp;#31465;&amp;#51742;&amp;#15238;&amp;#17736;&amp;#35443;&amp;#34962;&amp;#64961;&amp;#20157;&amp;#4551;"/>
+				<imgdir name="0">
+					<int name="0" value="4031896"/>
+					<int name="1" value="100"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+	</imgdir>
+	<imgdir name="04220045">
+		<imgdir name="info">
+			<canvas name="icon" width="32" height="30">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<canvas name="iconRaw" width="32" height="28">
+				<vector name="origin" x="1" y="30"/>
+			</canvas>
+			<int name="only" value="1"/>
+			<int name="exp" value="100"/>
+			<int name="grade" value="5"/>
+			<int name="questId" value="7691"/>
+			<string name="name" value="Birthday Cake"/>
+			<int name="notSale" value="1"/>
+			<string name="uiData" value="UI/UIWindow/raise/2"/>
+			<int name="timeLimited" value="1"/>
+			<int name="price" value="100"/>
+			<int name="slotMax" value="1"/>
+			<int name="quest" value="1"/>
+			<imgdir name="message">
+				<string name="0" value="Your plate is empty."/>
+				<string name="1" value="One piece of cake is placed on your plate."/>
+				<string name="2" value="You have collected two pieces of cake."/>
+				<string name="3" value="You have collected three pieces of cake. Only two more to go."/>
+				<string name="4" value="One more piece will complete the cake."/>
+				<string name="5" value="The Maple 5 Year anniversary cake is complete."/>
+			</imgdir>
+			<imgdir name="consumeItem">
+				<imgdir name="0">
+					<int name="0" value="4001167"/>
+					<int name="1" value="100"/>
+				</imgdir>
+			</imgdir>
+		</imgdir>
+	</imgdir>
+</imgdir>

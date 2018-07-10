@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9300180.img">
+	<imgdir name="info">
+		<int name="level" value="30"/>
+		<int name="maxHP" value="10000"/>
+		<int name="maxMP" value="0"/>
+		<int name="speed" value="0"/>
+		<int name="PADamage" value="0"/>
+		<int name="PDDamage" value="0"/>
+		<int name="MADamage" value="0"/>
+		<int name="MDDamage" value="0"/>
+		<int name="acc" value="0"/>
+		<int name="eva" value="0"/>
+		<int name="exp" value="0"/>
+		<int name="undead" value="0"/>
+		<int name="pushed" value="1"/>
+		<float name="fs" value="10.0"/>
+		<int name="summonType" value="1"/>
+		<int name="damagedByMob" value="1"/>
+		<int name="noFlip" value="1"/>
+		<imgdir name="damagedBySelectedMob">
+			<int name="0" value="9300174"/>
+		</imgdir>
+		<int name="doNotRemove" value="1"/>
+	</imgdir>
+	<imgdir name="stand">
+		<canvas name="0" width="759" height="440">
+			<vector name="origin" x="333" y="437"/>
+			<vector name="lt" x="-333" y="-437"/>
+			<vector name="rb" x="236" y="1"/>
+			<vector name="head" x="-62" y="-388"/>
+		</canvas>
+	</imgdir>
+	<imgdir name="hit1">
+		<canvas name="0" width="759" height="440">
+			<vector name="origin" x="333" y="437"/>
+			<vector name="lt" x="-334" y="-437"/>
+			<vector name="rb" x="236" y="0"/>
+			<vector name="head" x="-62" y="-388"/>
+			<int name="a0" value="255"/>
+			<int name="a1" value="120"/>
+			<int name="delay" value="300"/>
+		</canvas>
+	</imgdir>
+	<imgdir name="die1">
+		<canvas name="0" width="759" height="440">
+			<vector name="origin" x="333" y="437"/>
+			<int name="a0" value="255"/>
+			<int name="a1" value="0"/>
+			<int name="delay" value="900"/>
+		</canvas>
+	</imgdir>
+</imgdir>

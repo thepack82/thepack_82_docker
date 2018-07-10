@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Npt_GuideLine.img">
+	<imgdir name="NptGuide">
+		<string name="Text00" value="- Introduction \r\n "/>
+		<string name="Text01" value="This system is designed to enable users to make transactions with game items using Nexon Cash."/>
+		<string name="Text02" value="This system will ensure that both parties will make safe &amp; secured transactions. \r\n\r\n"/>
+		<string name="Text03" value="- [For Sale] \r\n "/>
+		<string name="Text04" value="1. Selling an item : \r\n"/>
+		<string name="Text05" value="Select the item to sell in the inventory at the bottom-left corner of the screen, and press Sell/Auction , then it&apos;ll be registered under the [For Sale] list."/>
+		<string name="Text06" value="When the item is registered, a registration fee (mesos) will be charged."/>
+		<string name="Text07" value="Please be aware that even if the item is later removed from the list, the registration fee will NOT be returned."/>
+		<string name="Text08" value="Also, once the item is listed under  &quot;For Sale&quot;, the item is deleted from your inventory,"/>
+		<string name="Text09" value="and will not be available for use in the game. In order to use the item, remove the item from the For Sale list. \r\n\r\n"/>
+		<string name="Text10" value="&amp;#44708;&amp;#42001;&amp;#64104;&amp;#37005;&amp;#30259;&amp;#24951;&amp;#52980;&amp;#26640;&amp;#41034;&amp;#36663;&amp;#22184;&amp;#12816;&amp;#57755;&amp;#46037;&amp;#5237;&amp;#8875;&amp;#50133;&amp;#11777;&amp;#50153;&amp;#2863;&amp;#65175;&amp;#17736;&amp;#35388;&amp;#23957;&amp;#20265;&amp;#64554;&amp;#4488;&amp;#39806;&amp;#4028;&amp;#6120;&amp;#26942;&amp;#30281;&amp;#34843;&amp;#30078;&amp;#58252;"/>
+		<string name="Text11" value="You may purchase the item by simply clicking [Wanted] on the item you&apos;d like to buy."/>
+		<string name="Text12" value="Please check all the details on the item (item name, unit, price, option, etc.) before making the purchase. \r\n\r\n"/>
+		<string name="Text13" value="3. Transaction Fee : \r\n "/>
+		<string name="Text14" value="Once the item is registered for sale, the transaction fee of [100 Nexon Cash + 10% of the item price] will be added to the listed price."/>
+		<string name="Text15" value="After the item is sold, the difference between the registered price and the actual selling price will be construed as the transaction fee. "/>
+		<string name="Text16" value="The fee will be given to the user that buys the item. \r\n\r\n"/>
+		<string name="Text17" value="&amp;#44706;&amp;#42001;&amp;#64104;&amp;#37022;&amp;#30247;&amp;#24951;&amp;#52963;&amp;#38754;&amp;#41079;&amp;#36662;&amp;#22173;&amp;#12816;&amp;#57820;"/>
+		<string name="Text18" value="If there are multiple items to purchase, you may store the items in the Shopping Cart,"/>
+		<string name="Text19" value="The items stored in the shopping cart can be seen through the Cart button at My Page. \r\n\r\n"/>
+		<string name="Text20" value="- [Wanted] \r\n "/>
+		<string name="Text21" value="&amp;#44711;&amp;#42001;&amp;#64104;&amp;#37020;&amp;#30242;&amp;#24929;&amp;#52919;&amp;#26636;&amp;#41028;&amp;#36708;&amp;#22146;&amp;#12831;&amp;#57742;&amp;#45953;&amp;#60174;&amp;#8857;&amp;#50055;&amp;#11828;&amp;#50163;&amp;#2922;"/>
+		<string name="Text22" value="By clicking on this button, you can register an item you&apos;d like to buy under [Wanted], and purchase the selected item owned by other users. \r\n\r\n"/>
+		<string name="Text23" value="&amp;#44708;&amp;#42001;&amp;#64104;&amp;#37001;&amp;#30260;&amp;#24932;&amp;#52985;&amp;#26635;&amp;#41034;&amp;#36647;&amp;#22197;&amp;#12823;&amp;#57747;&amp;#45979;&amp;#5172;&amp;#8867;&amp;#50064;&amp;#11789;&amp;#15495;&amp;#2838;&amp;#65160;&amp;#17716;&amp;#35389;&amp;#24027;"/>
+		<string name="Text24" value="Once the item is added to the cart, the transaction fee of [100 Nexon Cash + 10% of the item price] will be added to the listed price."/>
+		<string name="Text25" value="After the item is bought, the difference between the registered price and the actual selling price will be construed as the transaction fee."/>
+		<string name="Text26" value="The price of purchase will be listed, minus the transaction fee. \r\n\r\n"/>
+		<string name="Text27" value="- [My Page] \r\n "/>
+		<string name="Text28" value="&amp;#44711;&amp;#42001;&amp;#64104;&amp;#37022;&amp;#30247;&amp;#24951;&amp;#52963;&amp;#38754;&amp;#41079;&amp;#36662;&amp;#22173;&amp;#12816;&amp;#57820;"/>
+		<string name="Text29" value="You can see all the items in the cart, as well as items you&apos;ve reserved, all in this list."/>
+		<string name="Text30" value="The cart will not be emptied out the moment you log out of the game. \r\n\r\n"/>
+		<string name="Text31" value="2. Reserved Item \r\n"/>
+		<string name="Text32" value="You can see the list of items that have been reserved."/>
+		<string name="Text33" value="If the item is up on the market by a user, you may head directly to that page and make the purchase. \r\n\r\n"/>
+		<string name="Text34" value="3. History : \r\n"/>
+		<string name="Text35" value="This is where you can check your history of transaction on MTS. \r\n\r\n"/>
+		<string name="Text36" value="4. Auction Progress : \r\n"/>
+		<string name="Text37" value="This is the place to check up on your progress in the auction. \r\n\r\n"/>
+		<string name="Text38" value="- Others \r\n"/>
+		<string name="Text39" value="&amp;#44755;&amp;#42075;&amp;#64033;&amp;#37033;&amp;#30255;&amp;#24939;&amp;#52976;&amp;#26712;&amp;#41055;&amp;#36652;&amp;#22180;&amp;#12894;&amp;#57774;&amp;#45968;&amp;#5235;&amp;#8876;&amp;#50054;&amp;#11804;&amp;#50168;&amp;#2872;&amp;#65183;&amp;#17676;&amp;#35443;&amp;#23986;&amp;#20327;&amp;#64575;&amp;#4486;&amp;#39776;&amp;#4020;&amp;#59539;&amp;#26902;&amp;#30290;&amp;#34856;&amp;#30078;&amp;#7350;&amp;#55242;&amp;#4777;&amp;#52517;&amp;#58423;"/>
+		<string name="Text40" value="Once the item has been registered for sale or to buy, the information cannot be edited."/>
+		<string name="Text41" value="To do so, please cancel the registration and re-register. \r\n\r\n"/>
+	</imgdir>
+	<imgdir name="Version">
+		<int name="Number" value="2"/>
+	</imgdir>
+</imgdir>

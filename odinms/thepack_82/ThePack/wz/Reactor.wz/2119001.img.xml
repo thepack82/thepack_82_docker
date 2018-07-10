@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="2119001.img">
+	<imgdir name="info">
+		<string name="info" value="&amp;#26134;&amp;#6779;&amp;#15632;&amp;#37117;&amp;#52594;&amp;#53857;&amp;#52924;&amp;#43193;&amp;#26555;&amp;#36726;"/>
+		<string name="link" value="2119000"/>
+	</imgdir>
+	<string name="action" value="scaScript2"/>
+</imgdir>
