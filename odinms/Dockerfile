@@ -1,6 +1,9 @@
 FROM java:6
 
 RUN apt-get update
+RUN apt-get install -y vim
+
+RUN echo 'alias ll="ls -lha --color=auto"' >> ~/.bashrc
 
 WORKDIR /odinms
 
