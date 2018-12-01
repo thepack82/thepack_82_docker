@@ -29,7 +29,7 @@ MS_CONTAINER=`docker container ps | grep -w odinms | awk {'print $2'}`
 if [[ ! $MS_CONTAINER == "odinms" ]]; then
 
 	# Best effort attempt at getting the server IP address. idk, better than localhost?
-	HOST_IP=`ifconfig | grep -w inet | grep -v 127.0.0.1 | grep -v broadcast\ 172 | awk {'print $2'} | head -n 1`
+	HOST_IP=`ifconfig | grep -w inet | grep -v 127.0.0.1 | grep -v broadcast\ 172 | awk {'print $2'} | tail -n 1`
 
 	docker run -d -e THIS_IP=${HOST_IP} -p 7575:7575 -p 7576:7576 -p 7577:7577 -p 7578:7578 -p 8484:8484 --network thepack --name maplestory odinms
 
