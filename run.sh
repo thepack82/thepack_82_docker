@@ -22,6 +22,9 @@ if [[ ! $DB_CONTAINER == "odinms_mysql" ]]; then
 	docker run -d --volume thepack-db:/var/lib/mysql --network thepack --name maplestory-db odinms_mysql
 fi
 
+# Sleep needed to avoid race condition.
+sleep 5
+
 MS_CONTAINER=`docker container ps | grep -w odinms | awk {'print $2'}`
 if [[ ! $MS_CONTAINER == "odinms" ]]; then
 
