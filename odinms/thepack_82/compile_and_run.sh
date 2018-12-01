@@ -2,3 +2,5 @@
 
 cd ThePack
 source compile.sh && source run.sh
+
+sleep infinity
