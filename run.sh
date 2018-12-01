@@ -10,10 +10,16 @@ if [[ ! $NETWORK == "thepack" ]]; then
 	docker network create thepack
 fi
 
+# Create volume for MySQL data.
+VOLUME=`docker volume ls | grep -w thepack-db | awk {'print $2'}`
+if [[ ! $VOLUME == "thepack-db" ]]; then
+	docker volume create thepack-db
+fi
+
 # Run containers.
 DB_CONTAINER=`docker container ps | grep -w odinms_mysql | awk {'print $2'}`
 if [[ ! $DB_CONTAINER == "odinms_mysql" ]]; then
-	docker run -d --network thepack --name maplestory-db odinms_mysql
+	docker run -d --volume thepack-db:/var/lib/mysql --network thepack --name maplestory-db odinms_mysql
 fi
 
 MS_CONTAINER=`docker container ps | grep -w odinms | awk {'print $2'}`
