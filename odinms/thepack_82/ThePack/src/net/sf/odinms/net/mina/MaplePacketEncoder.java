@@ -18,8 +18,8 @@ public class MaplePacketEncoder implements ProtocolEncoder {
             byte[] unencrypted = new byte[input.length];
             System.arraycopy(input, 0, unencrypted, 0, input.length);
             byte[] ret = new byte[unencrypted.length + 4];
-            byte[] header = client.getSendCrypto().getPacketHeader(unencrypted.length);
             synchronized (client.getSendCrypto()) {
+                byte[] header = client.getSendCrypto().getPacketHeader(unencrypted.length);
                 MapleCustomEncryption.encryptData(unencrypted);
                 client.getSendCrypto().crypt(unencrypted);
                 System.arraycopy(header, 0, ret, 0, 4);
